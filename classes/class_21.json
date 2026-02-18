@@ -5,7 +5,7 @@
   "difficulties": [
     {
       "name": "The Upper Gap",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": "116",
       "type": "Primordial / Class Finale / Gap",
       "overview": "",
@@ -13,35 +13,35 @@
     },
     {
       "name": "Liminal",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": "251+",
       "type": "Ordinal",
       "overview": ""
     },
     {
       "name": "Transcendence",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": "251+",
       "type": "Ordinal",
       "overview": ""
     },
     {
       "name": "Uber",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": "251+",
       "type": "Ordinal",
       "overview": ""
     },
     {
       "name": "Ineffable",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": "251+",
       "type": "Ordinal",
       "overview": ""
     },
     {
       "name": "Inutilis",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": "251+",
       "type": "Ordinal",
       "overview": ""

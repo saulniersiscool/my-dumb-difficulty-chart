@@ -5,147 +5,147 @@
   "difficulties": [
     {
       "name": "Stardark",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 116.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Devastational",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 117.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "3rd Dimension",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 118.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Supreme-Null",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 119.0,
       "type": "Chain",
       "overview": ""
     },
     {
       "name": "Aleph-Aleph-Null",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 119.2,
       "type": "Chain/Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Aleph-Void",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 119.4,
       "type": "Chain/Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Aleph-Virus",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 119.6,
       "type": "Chain/Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Aleph",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 119.8,
       "type": "Chain/Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Uproarious",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 120.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "DEATHfinite",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 121.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Questioning Insanity",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 122.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Omnipresent",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 123.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "THE BORDERLINE",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 123.5,
       "type": "6th Fabled / Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Cryptic",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 124.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Craziness",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 125.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Speedrun",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 126.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Aleph-TS",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 127.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Aerodynamix",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 128.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Afflictive",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 129.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Pandora",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 129.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Destroiny",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 130.0,
       "type": "Class Finale",
       "overview": ""

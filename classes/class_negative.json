@@ -5,14 +5,14 @@
   "difficulties": [
     {
       "name": "The First Difficulty",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": "-inf",
       "type": "Primordial",
       "overview": ""
     },
     {
       "name": "The Lower Gap",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": "-inf",
       "type": "Primordial / Gap",
       "overview": "",
@@ -20,14 +20,14 @@
     },
     {
       "name": "Negativity",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": -250.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Pre-Excavation Chain",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": "-237.5",
       "type": "Chain/Sub-Difficulties",
       "overview": "",
@@ -35,84 +35,84 @@
     },
     {
       "name": "Unimpossible",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": -225.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Friendliness",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": -200.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "True Ease",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": -175.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "A",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": -150.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Felix the ДА",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": -125.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Exist",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": -100.0,
       "type": "First Legendary",
       "overview": ""
     },
     {
       "name": "Disco",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": -80.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Relax",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": -70.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Skip",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": -60.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Restful",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": -50.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Ifinity",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": -40.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Instant Win",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": -31.0,
       "type": "Class Finale",
       "overview": ""

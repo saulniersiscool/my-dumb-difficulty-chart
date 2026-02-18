@@ -5,84 +5,84 @@
   "difficulties": [
     {
       "name": "Ultra Instinct",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 61.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Mortifying",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 62.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Dreadful.exe",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 62.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Transfinite",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 63.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "RoorXD",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 64.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "RoorHELL",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 64.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Jesus Ballin'",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 65.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "HyperViolent",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 65.33,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Enclosed",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 65.66,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "El Vacio",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 66.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Unpossible",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 66.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Error Chain",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": "66.5",
       "type": "Chain/Sub-Difficulties",
       "overview": "",
@@ -90,112 +90,112 @@
     },
     {
       "name": "Universe Disruption",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 67.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Complete: Obstacles",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 67.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Illegal",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 68.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Bad Request",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 68.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Universal Glitch",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 69.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "FalseGanar",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 70.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Hopeless",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 71.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Nugatory",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 72.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Gameifying",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 72.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Infinity",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 73.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Void",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 73.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Doog",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 74.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Dissension",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 74.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "MegaDeath",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 75.0,
       "type": "3rd Fabled/Class Finale",
       "overview": ""
     },
     {
       "name": "TooPrecise",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 75.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Death Chain",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": "75.75",
       "type": "Chain/Sub-Difficulties",
       "overview": "",

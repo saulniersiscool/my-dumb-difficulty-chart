@@ -5,98 +5,98 @@
   "difficulties": [
     {
       "name": "Dynamix",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 106.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Eshinion",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 107.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Caught",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 107.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "TooAbnormal",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 108.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Catch",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 109.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "IMPOSSIBLE.EXE",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 109.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Exploitist Elite",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 110.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "TooTooHard",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 111.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "True Obama Prism",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 111.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Zany",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 112.0,
       "type": "Chain",
       "overview": ""
     },
     {
       "name": "Oh Noez!",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 113.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Viratical",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 114.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Pinnacle",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 115.0,
       "type": "5th Legendary/Class Finale",
       "overview": ""
     },
     {
       "name": "The Middleline",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 115.0,
       "type": "Primordial",
       "overview": ""

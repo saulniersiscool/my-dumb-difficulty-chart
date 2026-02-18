@@ -5,7 +5,7 @@
   "difficulties": [
     {
       "name": "The Final Difficulty.",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": "inf",
       "type": "Primordial",
       "overview": ""

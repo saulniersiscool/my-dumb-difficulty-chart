@@ -5,147 +5,147 @@
   "difficulties": [
     {
       "name": "Building",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 31.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Under Construction",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 31.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Does Not Compute",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 32.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Exile",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 33.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Invigorating",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 34.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Apocalyptic",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 35.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Eternal Outrage",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 35.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Destructive",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 36.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Dissonant",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 37.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Mischievous",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 38.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "ᴇʟᴅʀɪᴛᴄʜ",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 39.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Monstrous",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 40.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Inimical",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 40.33,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Horrendous",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 40.66,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Ultimate",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 41.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Nought",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 41.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "System Error",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 42.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Error.exe",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 43.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Simply Beyond",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 44.0,
       "type": "Normal",
       "overview": ""
     },
     {
       "name": "Ultra",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 44.5,
       "type": "Sub-Difficulty",
       "overview": ""
     },
     {
       "name": "Critical",
-      "decal_id": "rbxassetid://0",
+      "decal_id": 0,
       "rating": 45.0,
       "type": "Class Finale",
       "overview": ""
