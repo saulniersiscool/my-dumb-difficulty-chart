@@ -1,0 +1,182 @@
+{
+  "class_id": "class_8",
+  "class_name": "Class 8",
+  "description": "God mode and even noclip are absolutely essential for difficulties in this class, and obstacles, like long jumps and wraparounds can even reach triple digits. Most parts of towers in difficulties of this class are kill bricks, preferably instakills. Additionally, plenty of towers in this class are joke towers. Some towers in this difficulty are even super-buffed variants of some iconic EToH towers. This class is also home to 2 popular difficulties from old EJT, both of which are now fabled difficulties. Rating Range: 76 to 90 Difficulties: 15 Sub-Difficulties: 10 Chains: 2 Total: 27 Grand Total: 255",
+  "difficulties": [
+    {
+      "name": "Epitome",
+      "decal_id": "rbxassetid://0",
+      "rating": 76.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Agony",
+      "decal_id": "rbxassetid://0",
+      "rating": 77.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "ILOVEYOU",
+      "decal_id": "rbxassetid://0",
+      "rating": 77.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Abyssal",
+      "decal_id": "rbxassetid://0",
+      "rating": 78.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Dilly Impossible",
+      "decal_id": "rbxassetid://0",
+      "rating": 79.0,
+      "type": "4th Fabled",
+      "overview": ""
+    },
+    {
+      "name": "Gigaversal",
+      "decal_id": "rbxassetid://0",
+      "rating": 79.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Unreasonable",
+      "decal_id": "rbxassetid://0",
+      "rating": 80.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Celestial",
+      "decal_id": "rbxassetid://0",
+      "rating": 81.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Arcane",
+      "decal_id": "rbxassetid://0",
+      "rating": 82.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "COMMUNISM",
+      "decal_id": "rbxassetid://0",
+      "rating": 83.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Detroit",
+      "decal_id": "rbxassetid://0",
+      "rating": 83.33,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Sacrificingly Impossible",
+      "decal_id": "rbxassetid://0",
+      "rating": 83.66,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Satan Tartarus Lucifer Void",
+      "decal_id": "rbxassetid://0",
+      "rating": 84.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "QR Code",
+      "decal_id": "rbxassetid://0",
+      "rating": 85.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Vacant",
+      "decal_id": "rbxassetid://0",
+      "rating": 85.33,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "How‽",
+      "decal_id": "rbxassetid://0",
+      "rating": 85.66,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Errorisation",
+      "decal_id": "rbxassetid://0",
+      "rating": 86.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Godlike",
+      "decal_id": "rbxassetid://0",
+      "rating": 86.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Esoteric",
+      "decal_id": "rbxassetid://0",
+      "rating": 87.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Complete Users",
+      "decal_id": "rbxassetid://0",
+      "rating": 87.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "BobuxDeath",
+      "decal_id": "rbxassetid://0",
+      "rating": 88.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Aleph-DEATH",
+      "decal_id": "rbxassetid://0",
+      "rating": 88.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Limiting",
+      "decal_id": "rbxassetid://0",
+      "rating": 89.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Asthenic",
+      "decal_id": "rbxassetid://0",
+      "rating": 89.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "The Crystal Core",
+      "decal_id": "rbxassetid://0",
+      "rating": 90.0,
+      "type": "5th Fabled/Class Finale",
+      "overview": ""
+    }
+  ]
+}

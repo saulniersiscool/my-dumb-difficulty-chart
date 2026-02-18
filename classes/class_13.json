@@ -1,0 +1,119 @@
+{
+  "class_id": "class_13",
+  "class_name": "Class 13",
+  "description": "As this class name suggests, numbers now exceed the commonly used 1024-bit limit, making this class the start of theoretical impossibility. As these difficulties still exist as concepts only, imagination can go wild. However, difficulties cannot leak to real life, but even if otherwise, they aren't as concrete.",
+  "difficulties": [
+    {
+      "name": "Theoretical",
+      "decal_id": "rbxassetid://0",
+      "rating": 146.0,
+      "type": "7th Fabled",
+      "overview": ""
+    },
+    {
+      "name": "Arcanite",
+      "decal_id": "rbxassetid://0",
+      "rating": 147.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Amalgam",
+      "decal_id": "rbxassetid://0",
+      "rating": 148.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Doggo",
+      "decal_id": "rbxassetid://0",
+      "rating": 148.5,
+      "type": "Sub-difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Shoving",
+      "decal_id": "rbxassetid://0",
+      "rating": 149.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Difficultypedia",
+      "decal_id": "rbxassetid://0",
+      "rating": 150.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "There Is No Difficulty",
+      "decal_id": "rbxassetid://0",
+      "rating": 151.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "The Crystal HELL",
+      "decal_id": "rbxassetid://0",
+      "rating": 152.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Omnipotent",
+      "decal_id": "rbxassetid://0",
+      "rating": 153.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "couch",
+      "decal_id": "rbxassetid://0",
+      "rating": 154.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Are You Done Yet?",
+      "decal_id": "rbxassetid://0",
+      "rating": 155.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Unorganized Reality",
+      "decal_id": "rbxassetid://0",
+      "rating": 156.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Textify",
+      "decal_id": "rbxassetid://0",
+      "rating": 157.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Acceptance",
+      "decal_id": "rbxassetid://0",
+      "rating": 158.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Beyond Infinite",
+      "decal_id": "rbxassetid://0",
+      "rating": 159.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Deranged.txt",
+      "decal_id": "rbxassetid://0",
+      "rating": 160.0,
+      "type": "Class Finale",
+      "overview": ""
+    }
+  ]
+}

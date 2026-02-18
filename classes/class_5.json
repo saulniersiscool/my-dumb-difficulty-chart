@@ -1,0 +1,154 @@
+{
+  "class_id": "class_5",
+  "class_name": "Class 5",
+  "description": "This class used to be the beginning of enigmatically impossible gameplay. It is also known as the red zone, due to every difficulty here being red-colored, as it was blasted into the volcano. Good luck, since these difficulties will be brutal, being past what was thought to be the limit of gameplay as a whole. Also, random history facts! This class is a combination of previous class 6 (which started at Malicious and ended at Vicious, which was after Mischievous) and the first part of class 7, which was also known as the red zone. As a result, the icons of all the difficulties residing in the previous class 6 were changed to become red, and now class 6 looks super cool being red! Rating Range: 31 to 45 Difficulties: 15 Sub-Difficulties: 6 Chains: 2 Total: 23 Grand Total: 202",
+  "difficulties": [
+    {
+      "name": "Building",
+      "decal_id": "rbxassetid://0",
+      "rating": 31.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Under Construction",
+      "decal_id": "rbxassetid://0",
+      "rating": 31.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Does Not Compute",
+      "decal_id": "rbxassetid://0",
+      "rating": 32.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Exile",
+      "decal_id": "rbxassetid://0",
+      "rating": 33.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Invigorating",
+      "decal_id": "rbxassetid://0",
+      "rating": 34.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Apocalyptic",
+      "decal_id": "rbxassetid://0",
+      "rating": 35.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Eternal Outrage",
+      "decal_id": "rbxassetid://0",
+      "rating": 35.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Destructive",
+      "decal_id": "rbxassetid://0",
+      "rating": 36.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Dissonant",
+      "decal_id": "rbxassetid://0",
+      "rating": 37.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Mischievous",
+      "decal_id": "rbxassetid://0",
+      "rating": 38.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "ᴇʟᴅʀɪᴛᴄʜ",
+      "decal_id": "rbxassetid://0",
+      "rating": 39.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Monstrous",
+      "decal_id": "rbxassetid://0",
+      "rating": 40.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Inimical",
+      "decal_id": "rbxassetid://0",
+      "rating": 40.33,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Horrendous",
+      "decal_id": "rbxassetid://0",
+      "rating": 40.66,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Ultimate",
+      "decal_id": "rbxassetid://0",
+      "rating": 41.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Nought",
+      "decal_id": "rbxassetid://0",
+      "rating": 41.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "System Error",
+      "decal_id": "rbxassetid://0",
+      "rating": 42.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Error.exe",
+      "decal_id": "rbxassetid://0",
+      "rating": 43.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Simply Beyond",
+      "decal_id": "rbxassetid://0",
+      "rating": 44.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Ultra",
+      "decal_id": "rbxassetid://0",
+      "rating": 44.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Critical",
+      "decal_id": "rbxassetid://0",
+      "rating": 45.0,
+      "type": "Class Finale",
+      "overview": ""
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "class_id": "class_19",
+  "class_name": "Class 19",
+  "description": "You're nearing the end as these difficulties break beyond imagination. Past this class lies Effortful, the Un-Chain, the Cardinals, Penultimate, and the quintet of ordinals that bridge and connect the gap between the extended chart and TFinD. What lies between you and the end is sheer pain and misery because of the insane logic these difficulties have.",
+  "difficulties": [
+    {
+      "name": "Mythic",
+      "decal_id": "rbxassetid://0",
+      "rating": 236.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Placeholder",
+      "decal_id": "rbxassetid://0",
+      "rating": 236.5,
+      "type": "Reserved / Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Endless",
+      "decal_id": "rbxassetid://0",
+      "rating": 237.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "BRUTAL CALAMITY",
+      "decal_id": "rbxassetid://0",
+      "rating": 238.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Prevalition",
+      "decal_id": "rbxassetid://0",
+      "rating": 238.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Transmaximal",
+      "decal_id": "rbxassetid://0",
+      "rating": 239.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Kenos",
+      "decal_id": "rbxassetid://0",
+      "rating": 240.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Inconceivable",
+      "decal_id": "rbxassetid://0",
+      "rating": 240.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "11th Dimension",
+      "decal_id": "rbxassetid://0",
+      "rating": 241.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Eviscerating",
+      "decal_id": "rbxassetid://0",
+      "rating": 241.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Spinning Skull",
+      "decal_id": "rbxassetid://0",
+      "rating": 242.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "ABSOLUTE INFINITY",
+      "decal_id": "rbxassetid://0",
+      "rating": 243.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Primal Babass",
+      "decal_id": "rbxassetid://0",
+      "rating": 244.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Culmination",
+      "decal_id": "rbxassetid://0",
+      "rating": 244.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Empyrean",
+      "decal_id": "rbxassetid://0",
+      "rating": 245.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "True Hell",
+      "decal_id": "rbxassetid://0",
+      "rating": 245.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Effortful",
+      "decal_id": "rbxassetid://0",
+      "rating": 246.0,
+      "type": "9th Fabled",
+      "overview": ""
+    },
+    {
+      "name": "Unboundable",
+      "decal_id": "rbxassetid://0",
+      "rating": 247.0,
+      "type": "Chain",
+      "overview": ""
+    },
+    {
+      "name": "Uncomputable",
+      "decal_id": "rbxassetid://0",
+      "rating": 248.0,
+      "type": "Chain",
+      "overview": ""
+    },
+    {
+      "name": "Undefinable",
+      "decal_id": "rbxassetid://0",
+      "rating": 249.0,
+      "type": "9th Legendary / Chain / Class Finale",
+      "overview": ""
+    }
+  ]
+}

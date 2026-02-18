@@ -1,0 +1,49 @@
+{
+  "class_id": "class_20a",
+  "class_name": "Class 20A",
+  "description": "[TO BE ADDED]",
+  "difficulties": [
+    {
+      "name": "Penultimate",
+      "decal_id": "rbxassetid://0",
+      "rating": 250.0,
+      "type": "10th Legendary / Class Finale",
+      "overview": ""
+    },
+    {
+      "name": "Unreachable",
+      "decal_id": "rbxassetid://0",
+      "rating": "???",
+      "type": "Cardinal",
+      "overview": ""
+    },
+    {
+      "name": "Immaculate",
+      "decal_id": "rbxassetid://0",
+      "rating": "???",
+      "type": "Cardinal",
+      "overview": ""
+    },
+    {
+      "name": "Fragmentized",
+      "decal_id": "rbxassetid://0",
+      "rating": "???",
+      "type": "Cardinal",
+      "overview": ""
+    },
+    {
+      "name": "Conglomerated",
+      "decal_id": "rbxassetid://0",
+      "rating": "???",
+      "type": "Cardinal",
+      "overview": ""
+    },
+    {
+      "name": "Summation",
+      "decal_id": "rbxassetid://0",
+      "rating": "???",
+      "type": "Cardinal",
+      "overview": ""
+    }
+  ]
+}
