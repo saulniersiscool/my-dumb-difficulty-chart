@@ -1,0 +1,4170 @@
+{
+  "total": 462,
+  "difficulties": [
+    {
+      "name": "The First Difficulty",
+      "decal_id": "rbxassetid://0",
+      "rating": "-inf",
+      "type": "Primordial",
+      "overview": "",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "The Lower Gap",
+      "decal_id": "rbxassetid://0",
+      "rating": "-inf",
+      "type": "Primordial / Gap",
+      "overview": "",
+      "rating_end": "115",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "Negativity",
+      "decal_id": "rbxassetid://0",
+      "rating": -250.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "Pre-Excavation Chain",
+      "decal_id": "rbxassetid://0",
+      "rating": "-237.5",
+      "type": "Chain/Sub-Difficulties",
+      "overview": "",
+      "rating_end": "-23.5",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "Unimpossible",
+      "decal_id": "rbxassetid://0",
+      "rating": -225.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "Friendliness",
+      "decal_id": "rbxassetid://0",
+      "rating": -200.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "True Ease",
+      "decal_id": "rbxassetid://0",
+      "rating": -175.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "A",
+      "decal_id": "rbxassetid://0",
+      "rating": -150.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "Felix the ДА",
+      "decal_id": "rbxassetid://0",
+      "rating": -125.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "Exist",
+      "decal_id": "rbxassetid://0",
+      "rating": -100.0,
+      "type": "First Legendary",
+      "overview": "",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "Disco",
+      "decal_id": "rbxassetid://0",
+      "rating": -80.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "Relax",
+      "decal_id": "rbxassetid://0",
+      "rating": -70.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "Skip",
+      "decal_id": "rbxassetid://0",
+      "rating": -60.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "Restful",
+      "decal_id": "rbxassetid://0",
+      "rating": -50.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "Ifinity",
+      "decal_id": "rbxassetid://0",
+      "rating": -40.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "Instant Win",
+      "decal_id": "rbxassetid://0",
+      "rating": -31.0,
+      "type": "Class Finale",
+      "overview": "",
+      "class_id": "class_negative",
+      "class_name": "Class Negative"
+    },
+    {
+      "name": "Millisecondless",
+      "decal_id": "rbxassetid://0",
+      "rating": -30.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Astronomical",
+      "decal_id": "rbxassetid://0",
+      "rating": -29.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Win",
+      "decal_id": "rbxassetid://0",
+      "rating": -29.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Winsome",
+      "decal_id": "rbxassetid://0",
+      "rating": -28.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Do Nothing",
+      "decal_id": "rbxassetid://0",
+      "rating": -27.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Sleepful",
+      "decal_id": "rbxassetid://0",
+      "rating": -26.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Blessing",
+      "decal_id": "rbxassetid://0",
+      "rating": -26.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Vintage",
+      "decal_id": "rbxassetid://0",
+      "rating": -25.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Ifinitude",
+      "decal_id": "rbxassetid://0",
+      "rating": -24.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Just Air",
+      "decal_id": "rbxassetid://0",
+      "rating": -24.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Happylike",
+      "decal_id": "rbxassetid://0",
+      "rating": -23.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Locomotion",
+      "decal_id": "rbxassetid://0",
+      "rating": -22.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Walkthrough",
+      "decal_id": "rbxassetid://0",
+      "rating": -21.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Automatic Joyful",
+      "decal_id": "rbxassetid://0",
+      "rating": -20.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Unlosable",
+      "decal_id": "rbxassetid://0",
+      "rating": -19.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Roll",
+      "decal_id": "rbxassetid://0",
+      "rating": -18.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Mazeophobia",
+      "decal_id": "rbxassetid://0",
+      "rating": -18.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Shattered Babass",
+      "decal_id": "rbxassetid://0",
+      "rating": -18.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Frivolous",
+      "decal_id": "rbxassetid://0",
+      "rating": -18.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Vibeness",
+      "decal_id": "rbxassetid://0",
+      "rating": -17.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Automatic",
+      "decal_id": "rbxassetid://0",
+      "rating": -17.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Spontaneous",
+      "decal_id": "rbxassetid://0",
+      "rating": -16.0,
+      "type": "Class Finale",
+      "overview": "",
+      "class_id": "class_0",
+      "class_name": "Class 0"
+    },
+    {
+      "name": "Joyful",
+      "decal_id": "rbxassetid://0",
+      "rating": -15.0,
+      "type": "2nd Legendary",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Do Something",
+      "decal_id": "rbxassetid://0",
+      "rating": -14.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Placid",
+      "decal_id": "rbxassetid://0",
+      "rating": -14.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Press a Key",
+      "decal_id": "rbxassetid://0",
+      "rating": -13.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Tap to Move",
+      "decal_id": "rbxassetid://0",
+      "rating": -12.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Walk A Slope",
+      "decal_id": "rbxassetid://0",
+      "rating": -12.33,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Climb A Truss",
+      "decal_id": "rbxassetid://0",
+      "rating": -12.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Tranquil",
+      "decal_id": "rbxassetid://0",
+      "rating": -11.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Excavation Chain",
+      "decal_id": "rbxassetid://0",
+      "rating": "-11.25",
+      "type": "Chain/Sub-Difficulties",
+      "overview": "",
+      "rating_end": "???",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Jumpless",
+      "decal_id": "rbxassetid://0",
+      "rating": -11.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Starter",
+      "decal_id": "rbxassetid://0",
+      "rating": -10.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Cakewalk",
+      "decal_id": "rbxassetid://0",
+      "rating": -9.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Sweet",
+      "decal_id": "rbxassetid://0",
+      "rating": -9.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Sugary",
+      "decal_id": "rbxassetid://0",
+      "rating": -8.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Aesthetic",
+      "decal_id": "rbxassetid://0",
+      "rating": -8.33,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Lovely",
+      "decal_id": "rbxassetid://0",
+      "rating": -8.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Glee",
+      "decal_id": "rbxassetid://0",
+      "rating": -7.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Flowerness",
+      "decal_id": "rbxassetid://0",
+      "rating": -7.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Coasterifying",
+      "decal_id": "rbxassetid://0",
+      "rating": -6.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "A Difficulty Named Difficulty",
+      "decal_id": "rbxassetid://0",
+      "rating": -6.33,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Pleasant",
+      "decal_id": "rbxassetid://0",
+      "rating": -6.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Piece o' Cake",
+      "decal_id": "rbxassetid://0",
+      "rating": -5.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Tutorial",
+      "decal_id": "rbxassetid://0",
+      "rating": -5.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Hellish Encore",
+      "decal_id": "rbxassetid://0",
+      "rating": -4.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Delightful",
+      "decal_id": "rbxassetid://0",
+      "rating": -4.33,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "TooEasy",
+      "decal_id": "rbxassetid://0",
+      "rating": -4.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Peaceful",
+      "decal_id": "rbxassetid://0",
+      "rating": -3.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Playful",
+      "decal_id": "rbxassetid://0",
+      "rating": -2.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Babying",
+      "decal_id": "rbxassetid://0",
+      "rating": -2.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Magnificent",
+      "decal_id": "rbxassetid://0",
+      "rating": -1.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Facile",
+      "decal_id": "rbxassetid://0",
+      "rating": -1.33,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Effortlessless",
+      "decal_id": "rbxassetid://0",
+      "rating": -1.0,
+      "type": "Class Finale",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Gravel",
+      "decal_id": "rbxassetid://0",
+      "rating": -0.5,
+      "type": "Normal/Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_1",
+      "class_name": "Class 1"
+    },
+    {
+      "name": "Effortless",
+      "decal_id": "rbxassetid://0",
+      "rating": 0.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Gar Chain",
+      "decal_id": "rbxassetid://0",
+      "rating": "0.125",
+      "type": "Chain/Sub-Difficulties",
+      "overview": "",
+      "rating_end": "225.5",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Playground",
+      "decal_id": "rbxassetid://0",
+      "rating": 0.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Elementary",
+      "decal_id": "rbxassetid://0",
+      "rating": 0.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Simple",
+      "decal_id": "rbxassetid://0",
+      "rating": 0.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Easy",
+      "decal_id": "rbxassetid://0",
+      "rating": 1.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Neat",
+      "decal_id": "rbxassetid://0",
+      "rating": 1.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Calm",
+      "decal_id": "rbxassetid://0",
+      "rating": 1.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Switch",
+      "decal_id": "rbxassetid://0",
+      "rating": 1.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Medium",
+      "decal_id": "rbxassetid://0",
+      "rating": 2.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Normal",
+      "decal_id": "rbxassetid://0",
+      "rating": 2.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Intermediate",
+      "decal_id": "rbxassetid://0",
+      "rating": 2.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Extraordinary",
+      "decal_id": "rbxassetid://0",
+      "rating": 2.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Hard",
+      "decal_id": "rbxassetid://0",
+      "rating": 3.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Tricky",
+      "decal_id": "rbxassetid://0",
+      "rating": 3.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Onerous",
+      "decal_id": "rbxassetid://0",
+      "rating": 3.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Easeful",
+      "decal_id": "rbxassetid://0",
+      "rating": 3.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Difficult",
+      "decal_id": "rbxassetid://0",
+      "rating": 4.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Strenuous",
+      "decal_id": "rbxassetid://0",
+      "rating": 4.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Menacing",
+      "decal_id": "rbxassetid://0",
+      "rating": 4.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Harming",
+      "decal_id": "rbxassetid://0",
+      "rating": 4.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Challenging",
+      "decal_id": "rbxassetid://0",
+      "rating": 5.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Irritating",
+      "decal_id": "rbxassetid://0",
+      "rating": 5.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Maniacal",
+      "decal_id": "rbxassetid://0",
+      "rating": 5.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Hectic",
+      "decal_id": "rbxassetid://0",
+      "rating": 5.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Intense",
+      "decal_id": "rbxassetid://0",
+      "rating": 6.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "TooMedium",
+      "decal_id": "rbxassetid://0",
+      "rating": 6.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Severe",
+      "decal_id": "rbxassetid://0",
+      "rating": 6.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Hellish",
+      "decal_id": "rbxassetid://0",
+      "rating": 6.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Remorseless",
+      "decal_id": "rbxassetid://0",
+      "rating": 7.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "C0RrUpT",
+      "decal_id": "rbxassetid://0",
+      "rating": 7.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Psycho",
+      "decal_id": "rbxassetid://0",
+      "rating": 7.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Harsh",
+      "decal_id": "rbxassetid://0",
+      "rating": 7.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Relentless",
+      "decal_id": "rbxassetid://0",
+      "rating": 8.0,
+      "type": "1st Fabled/Class Finale",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Angerable",
+      "decal_id": "rbxassetid://0",
+      "rating": 8.25,
+      "type": "Sub Difficulty",
+      "overview": "",
+      "class_id": "class_2",
+      "class_name": "Class 2"
+    },
+    {
+      "name": "Vexatious",
+      "decal_id": "rbxassetid://0",
+      "rating": 8.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Complex",
+      "decal_id": "rbxassetid://0",
+      "rating": 8.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Insane",
+      "decal_id": "rbxassetid://0",
+      "rating": 9.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Thanos",
+      "decal_id": "rbxassetid://0",
+      "rating": 9.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Madness",
+      "decal_id": "rbxassetid://0",
+      "rating": 9.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Classical",
+      "decal_id": "rbxassetid://0",
+      "rating": 9.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Extreme",
+      "decal_id": "rbxassetid://0",
+      "rating": 10.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Uneasy",
+      "decal_id": "rbxassetid://0",
+      "rating": 10.25,
+      "type": "Sub Difficulty",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Turmoil",
+      "decal_id": "rbxassetid://0",
+      "rating": 10.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Absurd",
+      "decal_id": "rbxassetid://0",
+      "rating": 10.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Terrifying",
+      "decal_id": "rbxassetid://0",
+      "rating": 11.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Ghastly",
+      "decal_id": "rbxassetid://0",
+      "rating": 11.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Horrifying",
+      "decal_id": "rbxassetid://0",
+      "rating": 11.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Petrifying",
+      "decal_id": "rbxassetid://0",
+      "rating": 11.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Catastrophic",
+      "decal_id": "rbxassetid://0",
+      "rating": 12.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Champion's Road",
+      "decal_id": "rbxassetid://0",
+      "rating": 12.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Eccentric",
+      "decal_id": "rbxassetid://0",
+      "rating": 12.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Dorcelessness",
+      "decal_id": "rbxassetid://0",
+      "rating": 12.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Horrific",
+      "decal_id": "rbxassetid://0",
+      "rating": 13.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Reversed",
+      "decal_id": "rbxassetid://0",
+      "rating": 13.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Harrowing",
+      "decal_id": "rbxassetid://0",
+      "rating": 13.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Confident",
+      "decal_id": "rbxassetid://0",
+      "rating": 13.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Unreal",
+      "decal_id": "rbxassetid://0",
+      "rating": 14.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "HYPER",
+      "decal_id": "rbxassetid://0",
+      "rating": 14.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Treacherous",
+      "decal_id": "rbxassetid://0",
+      "rating": 14.5,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Oblivious",
+      "decal_id": "rbxassetid://0",
+      "rating": 14.75,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Anguish",
+      "decal_id": "rbxassetid://0",
+      "rating": 15.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "Prodigious",
+      "decal_id": "rbxassetid://0",
+      "rating": 15.25,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "The Human Limit",
+      "decal_id": "rbxassetid://0",
+      "rating": 15.5,
+      "type": "3rd Legendary/Class Finale",
+      "overview": "",
+      "class_id": "class_3",
+      "class_name": "Class 3"
+    },
+    {
+      "name": "nil",
+      "decal_id": "rbxassetid://0",
+      "rating": 16.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Jank",
+      "decal_id": "rbxassetid://0",
+      "rating": 16.33,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "The Heart of Void",
+      "decal_id": "rbxassetid://0",
+      "rating": 16.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "eRRoR",
+      "decal_id": "rbxassetid://0",
+      "rating": 17.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Nightmare",
+      "decal_id": "rbxassetid://0",
+      "rating": 17.33,
+      "type": "2nd Fabled/Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Literal",
+      "decal_id": "rbxassetid://0",
+      "rating": 17.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "WHY",
+      "decal_id": "rbxassetid://0",
+      "rating": 18.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Maximum Overdrive",
+      "decal_id": "rbxassetid://0",
+      "rating": 18.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "No",
+      "decal_id": "rbxassetid://0",
+      "rating": 19.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Purgatory",
+      "decal_id": "rbxassetid://0",
+      "rating": 19.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "DEATH",
+      "decal_id": "rbxassetid://0",
+      "rating": 20.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Nullifying",
+      "decal_id": "rbxassetid://0",
+      "rating": 21.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "HELL",
+      "decal_id": "rbxassetid://0",
+      "rating": 22.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Vortex",
+      "decal_id": "rbxassetid://0",
+      "rating": 22.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "TARTARUS",
+      "decal_id": "rbxassetid://0",
+      "rating": 23.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "CALAMITY",
+      "decal_id": "rbxassetid://0",
+      "rating": 24.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Neutralize",
+      "decal_id": "rbxassetid://0",
+      "rating": 24.33,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Killjoying",
+      "decal_id": "rbxassetid://0",
+      "rating": 24.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Unimaginable",
+      "decal_id": "rbxassetid://0",
+      "rating": 25.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Dimension",
+      "decal_id": "rbxassetid://0",
+      "rating": 25.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Omega",
+      "decal_id": "rbxassetid://0",
+      "rating": 26.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Disarray",
+      "decal_id": "rbxassetid://0",
+      "rating": 26.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "SUFFER",
+      "decal_id": "rbxassetid://0",
+      "rating": 27.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "CHAOS",
+      "decal_id": "rbxassetid://0",
+      "rating": 27.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Aleph-Null",
+      "decal_id": "rbxassetid://0",
+      "rating": 28.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Mystical",
+      "decal_id": "rbxassetid://0",
+      "rating": 28.33,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Reality",
+      "decal_id": "rbxassetid://0",
+      "rating": 28.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Immeasurable",
+      "decal_id": "rbxassetid://0",
+      "rating": 29.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Noxious",
+      "decal_id": "rbxassetid://0",
+      "rating": 29.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Malicious",
+      "decal_id": "rbxassetid://0",
+      "rating": 30.0,
+      "type": "Class Finale",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Autism",
+      "decal_id": "rbxassetid://0",
+      "rating": 30.33,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Malevolent",
+      "decal_id": "rbxassetid://0",
+      "rating": 30.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_4",
+      "class_name": "Class 4"
+    },
+    {
+      "name": "Building",
+      "decal_id": "rbxassetid://0",
+      "rating": 31.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Under Construction",
+      "decal_id": "rbxassetid://0",
+      "rating": 31.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Does Not Compute",
+      "decal_id": "rbxassetid://0",
+      "rating": 32.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Exile",
+      "decal_id": "rbxassetid://0",
+      "rating": 33.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Invigorating",
+      "decal_id": "rbxassetid://0",
+      "rating": 34.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Apocalyptic",
+      "decal_id": "rbxassetid://0",
+      "rating": 35.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Eternal Outrage",
+      "decal_id": "rbxassetid://0",
+      "rating": 35.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Destructive",
+      "decal_id": "rbxassetid://0",
+      "rating": 36.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Dissonant",
+      "decal_id": "rbxassetid://0",
+      "rating": 37.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Mischievous",
+      "decal_id": "rbxassetid://0",
+      "rating": 38.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "ᴇʟᴅʀɪᴛᴄʜ",
+      "decal_id": "rbxassetid://0",
+      "rating": 39.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Monstrous",
+      "decal_id": "rbxassetid://0",
+      "rating": 40.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Inimical",
+      "decal_id": "rbxassetid://0",
+      "rating": 40.33,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Horrendous",
+      "decal_id": "rbxassetid://0",
+      "rating": 40.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Ultimate",
+      "decal_id": "rbxassetid://0",
+      "rating": 41.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Nought",
+      "decal_id": "rbxassetid://0",
+      "rating": 41.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "System Error",
+      "decal_id": "rbxassetid://0",
+      "rating": 42.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Error.exe",
+      "decal_id": "rbxassetid://0",
+      "rating": 43.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Simply Beyond",
+      "decal_id": "rbxassetid://0",
+      "rating": 44.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Ultra",
+      "decal_id": "rbxassetid://0",
+      "rating": 44.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Critical",
+      "decal_id": "rbxassetid://0",
+      "rating": 45.0,
+      "type": "Class Finale",
+      "overview": "",
+      "class_id": "class_5",
+      "class_name": "Class 5"
+    },
+    {
+      "name": "Winter",
+      "decal_id": "rbxassetid://0",
+      "rating": 46.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Fatal Error",
+      "decal_id": "rbxassetid://0",
+      "rating": 47.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "U DED SON",
+      "decal_id": "rbxassetid://0",
+      "rating": 48.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "REEE... !!!",
+      "decal_id": "rbxassetid://0",
+      "rating": 49.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Nonexistent",
+      "decal_id": "rbxassetid://0",
+      "rating": 50.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "D-I-E",
+      "decal_id": "rbxassetid://0",
+      "rating": 51.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Absolutism",
+      "decal_id": "rbxassetid://0",
+      "rating": 52.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Insistent",
+      "decal_id": "rbxassetid://0",
+      "rating": 53.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Shocking",
+      "decal_id": "rbxassetid://0",
+      "rating": 53.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Victor",
+      "decal_id": "rbxassetid://0",
+      "rating": 54.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Oblivion",
+      "decal_id": "rbxassetid://0",
+      "rating": 54.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "QUANTUM",
+      "decal_id": "rbxassetid://0",
+      "rating": 55.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Miracle",
+      "decal_id": "rbxassetid://0",
+      "rating": 56.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Y E E T U S",
+      "decal_id": "rbxassetid://0",
+      "rating": 56.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "DELETE",
+      "decal_id": "rbxassetid://0",
+      "rating": 57.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Interruption",
+      "decal_id": "rbxassetid://0",
+      "rating": 57.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Xi-Alpha",
+      "decal_id": "rbxassetid://0",
+      "rating": 58.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "D-E-L-T-A",
+      "decal_id": "rbxassetid://0",
+      "rating": 58.33,
+      "type": "Chain/Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Ÿ",
+      "decal_id": "rbxassetid://0",
+      "rating": 58.66,
+      "type": "Chain/Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Theta-Void",
+      "decal_id": "rbxassetid://0",
+      "rating": 59.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Ultimaniac",
+      "decal_id": "rbxassetid://0",
+      "rating": 59.5,
+      "type": "Chain/Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Supreme",
+      "decal_id": "rbxassetid://0",
+      "rating": 60.0,
+      "type": "4th Legendary/Class Finale",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Phi",
+      "decal_id": "rbxassetid://0",
+      "rating": 60.33,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "UNTHINKABLE",
+      "decal_id": "rbxassetid://0",
+      "rating": 60.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_6",
+      "class_name": "Class 6"
+    },
+    {
+      "name": "Ultra Instinct",
+      "decal_id": "rbxassetid://0",
+      "rating": 61.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Mortifying",
+      "decal_id": "rbxassetid://0",
+      "rating": 62.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Dreadful.exe",
+      "decal_id": "rbxassetid://0",
+      "rating": 62.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Transfinite",
+      "decal_id": "rbxassetid://0",
+      "rating": 63.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "RoorXD",
+      "decal_id": "rbxassetid://0",
+      "rating": 64.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "RoorHELL",
+      "decal_id": "rbxassetid://0",
+      "rating": 64.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Jesus Ballin'",
+      "decal_id": "rbxassetid://0",
+      "rating": 65.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "HyperViolent",
+      "decal_id": "rbxassetid://0",
+      "rating": 65.33,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Enclosed",
+      "decal_id": "rbxassetid://0",
+      "rating": 65.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "El Vacio",
+      "decal_id": "rbxassetid://0",
+      "rating": 66.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Unpossible",
+      "decal_id": "rbxassetid://0",
+      "rating": 66.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Error Chain",
+      "decal_id": "rbxassetid://0",
+      "rating": "66.5",
+      "type": "Chain/Sub-Difficulties",
+      "overview": "",
+      "rating_end": "214.5",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Universe Disruption",
+      "decal_id": "rbxassetid://0",
+      "rating": 67.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Complete: Obstacles",
+      "decal_id": "rbxassetid://0",
+      "rating": 67.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Illegal",
+      "decal_id": "rbxassetid://0",
+      "rating": 68.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Bad Request",
+      "decal_id": "rbxassetid://0",
+      "rating": 68.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Universal Glitch",
+      "decal_id": "rbxassetid://0",
+      "rating": 69.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "FalseGanar",
+      "decal_id": "rbxassetid://0",
+      "rating": 70.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Hopeless",
+      "decal_id": "rbxassetid://0",
+      "rating": 71.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Nugatory",
+      "decal_id": "rbxassetid://0",
+      "rating": 72.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Gameifying",
+      "decal_id": "rbxassetid://0",
+      "rating": 72.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Infinity",
+      "decal_id": "rbxassetid://0",
+      "rating": 73.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Void",
+      "decal_id": "rbxassetid://0",
+      "rating": 73.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Doog",
+      "decal_id": "rbxassetid://0",
+      "rating": 74.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Dissension",
+      "decal_id": "rbxassetid://0",
+      "rating": 74.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "MegaDeath",
+      "decal_id": "rbxassetid://0",
+      "rating": 75.0,
+      "type": "3rd Fabled/Class Finale",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "TooPrecise",
+      "decal_id": "rbxassetid://0",
+      "rating": 75.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Death Chain",
+      "decal_id": "rbxassetid://0",
+      "rating": "75.75",
+      "type": "Chain/Sub-Difficulties",
+      "overview": "",
+      "rating_end": "100.5",
+      "class_id": "class_7",
+      "class_name": "Class 7"
+    },
+    {
+      "name": "Epitome",
+      "decal_id": "rbxassetid://0",
+      "rating": 76.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Agony",
+      "decal_id": "rbxassetid://0",
+      "rating": 77.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "ILOVEYOU",
+      "decal_id": "rbxassetid://0",
+      "rating": 77.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Abyssal",
+      "decal_id": "rbxassetid://0",
+      "rating": 78.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Dilly Impossible",
+      "decal_id": "rbxassetid://0",
+      "rating": 79.0,
+      "type": "4th Fabled",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Gigaversal",
+      "decal_id": "rbxassetid://0",
+      "rating": 79.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Unreasonable",
+      "decal_id": "rbxassetid://0",
+      "rating": 80.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Celestial",
+      "decal_id": "rbxassetid://0",
+      "rating": 81.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Arcane",
+      "decal_id": "rbxassetid://0",
+      "rating": 82.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "COMMUNISM",
+      "decal_id": "rbxassetid://0",
+      "rating": 83.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Detroit",
+      "decal_id": "rbxassetid://0",
+      "rating": 83.33,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Sacrificingly Impossible",
+      "decal_id": "rbxassetid://0",
+      "rating": 83.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Satan Tartarus Lucifer Void",
+      "decal_id": "rbxassetid://0",
+      "rating": 84.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "QR Code",
+      "decal_id": "rbxassetid://0",
+      "rating": 85.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Vacant",
+      "decal_id": "rbxassetid://0",
+      "rating": 85.33,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "How‽",
+      "decal_id": "rbxassetid://0",
+      "rating": 85.66,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Errorisation",
+      "decal_id": "rbxassetid://0",
+      "rating": 86.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Godlike",
+      "decal_id": "rbxassetid://0",
+      "rating": 86.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Esoteric",
+      "decal_id": "rbxassetid://0",
+      "rating": 87.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Complete Users",
+      "decal_id": "rbxassetid://0",
+      "rating": 87.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "BobuxDeath",
+      "decal_id": "rbxassetid://0",
+      "rating": 88.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Aleph-DEATH",
+      "decal_id": "rbxassetid://0",
+      "rating": 88.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Limiting",
+      "decal_id": "rbxassetid://0",
+      "rating": 89.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Asthenic",
+      "decal_id": "rbxassetid://0",
+      "rating": 89.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "The Crystal Core",
+      "decal_id": "rbxassetid://0",
+      "rating": 90.0,
+      "type": "5th Fabled/Class Finale",
+      "overview": "",
+      "class_id": "class_8",
+      "class_name": "Class 8"
+    },
+    {
+      "name": "Rush",
+      "decal_id": "rbxassetid://0",
+      "rating": 91.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "Aleph-VSC",
+      "decal_id": "rbxassetid://0",
+      "rating": 92.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "Misery",
+      "decal_id": "rbxassetid://0",
+      "rating": 93.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "Mysterious",
+      "decal_id": "rbxassetid://0",
+      "rating": 94.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "Undocumented",
+      "decal_id": "rbxassetid://0",
+      "rating": 95.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "Denial",
+      "decal_id": "rbxassetid://0",
+      "rating": 96.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "Aleph-Something",
+      "decal_id": "rbxassetid://0",
+      "rating": 97.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "Omniscient",
+      "decal_id": "rbxassetid://0",
+      "rating": 98.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "Enigmatic",
+      "decal_id": "rbxassetid://0",
+      "rating": 99.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "Vrery hawrfd rdifficutl!!",
+      "decal_id": "rbxassetid://0",
+      "rating": 100.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "Free-smiley.de",
+      "decal_id": "rbxassetid://0",
+      "rating": 101.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "HELLWRATH",
+      "decal_id": "rbxassetid://0",
+      "rating": 102.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "Hellacious",
+      "decal_id": "rbxassetid://0",
+      "rating": 102.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "LOOP",
+      "decal_id": "rbxassetid://0",
+      "rating": 103.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "Bryanjr4474",
+      "decal_id": "rbxassetid://0",
+      "rating": 104.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "Eɼɼosion",
+      "decal_id": "rbxassetid://0",
+      "rating": 105.0,
+      "type": "Class Finale",
+      "overview": "",
+      "class_id": "class_9",
+      "class_name": "Class 9"
+    },
+    {
+      "name": "Dynamix",
+      "decal_id": "rbxassetid://0",
+      "rating": 106.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_10",
+      "class_name": "Class 10"
+    },
+    {
+      "name": "Eshinion",
+      "decal_id": "rbxassetid://0",
+      "rating": 107.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_10",
+      "class_name": "Class 10"
+    },
+    {
+      "name": "Caught",
+      "decal_id": "rbxassetid://0",
+      "rating": 107.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_10",
+      "class_name": "Class 10"
+    },
+    {
+      "name": "TooAbnormal",
+      "decal_id": "rbxassetid://0",
+      "rating": 108.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_10",
+      "class_name": "Class 10"
+    },
+    {
+      "name": "Catch",
+      "decal_id": "rbxassetid://0",
+      "rating": 109.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_10",
+      "class_name": "Class 10"
+    },
+    {
+      "name": "IMPOSSIBLE.EXE",
+      "decal_id": "rbxassetid://0",
+      "rating": 109.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_10",
+      "class_name": "Class 10"
+    },
+    {
+      "name": "Exploitist Elite",
+      "decal_id": "rbxassetid://0",
+      "rating": 110.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_10",
+      "class_name": "Class 10"
+    },
+    {
+      "name": "TooTooHard",
+      "decal_id": "rbxassetid://0",
+      "rating": 111.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_10",
+      "class_name": "Class 10"
+    },
+    {
+      "name": "True Obama Prism",
+      "decal_id": "rbxassetid://0",
+      "rating": 111.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_10",
+      "class_name": "Class 10"
+    },
+    {
+      "name": "Zany",
+      "decal_id": "rbxassetid://0",
+      "rating": 112.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_10",
+      "class_name": "Class 10"
+    },
+    {
+      "name": "Oh Noez!",
+      "decal_id": "rbxassetid://0",
+      "rating": 113.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_10",
+      "class_name": "Class 10"
+    },
+    {
+      "name": "Viratical",
+      "decal_id": "rbxassetid://0",
+      "rating": 114.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_10",
+      "class_name": "Class 10"
+    },
+    {
+      "name": "Pinnacle",
+      "decal_id": "rbxassetid://0",
+      "rating": 115.0,
+      "type": "5th Legendary/Class Finale",
+      "overview": "",
+      "class_id": "class_10",
+      "class_name": "Class 10"
+    },
+    {
+      "name": "The Middleline",
+      "decal_id": "rbxassetid://0",
+      "rating": 115.0,
+      "type": "Primordial",
+      "overview": "",
+      "class_id": "class_10",
+      "class_name": "Class 10"
+    },
+    {
+      "name": "Stardark",
+      "decal_id": "rbxassetid://0",
+      "rating": 116.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "The Upper Gap",
+      "decal_id": "rbxassetid://0",
+      "rating": "116",
+      "type": "Primordial / Class Finale / Gap",
+      "overview": "",
+      "rating_end": "inf",
+      "class_id": "class_21",
+      "class_name": "Class 21"
+    },
+    {
+      "name": "Devastational",
+      "decal_id": "rbxassetid://0",
+      "rating": 117.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "3rd Dimension",
+      "decal_id": "rbxassetid://0",
+      "rating": 118.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Supreme-Null",
+      "decal_id": "rbxassetid://0",
+      "rating": 119.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Aleph-Aleph-Null",
+      "decal_id": "rbxassetid://0",
+      "rating": 119.2,
+      "type": "Chain/Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Aleph-Void",
+      "decal_id": "rbxassetid://0",
+      "rating": 119.4,
+      "type": "Chain/Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Aleph-Virus",
+      "decal_id": "rbxassetid://0",
+      "rating": 119.6,
+      "type": "Chain/Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Aleph",
+      "decal_id": "rbxassetid://0",
+      "rating": 119.8,
+      "type": "Chain/Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Uproarious",
+      "decal_id": "rbxassetid://0",
+      "rating": 120.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "DEATHfinite",
+      "decal_id": "rbxassetid://0",
+      "rating": 121.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Questioning Insanity",
+      "decal_id": "rbxassetid://0",
+      "rating": 122.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Omnipresent",
+      "decal_id": "rbxassetid://0",
+      "rating": 123.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "THE BORDERLINE",
+      "decal_id": "rbxassetid://0",
+      "rating": 123.5,
+      "type": "6th Fabled / Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Cryptic",
+      "decal_id": "rbxassetid://0",
+      "rating": 124.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Craziness",
+      "decal_id": "rbxassetid://0",
+      "rating": 125.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Speedrun",
+      "decal_id": "rbxassetid://0",
+      "rating": 126.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Aleph-TS",
+      "decal_id": "rbxassetid://0",
+      "rating": 127.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Aerodynamix",
+      "decal_id": "rbxassetid://0",
+      "rating": 128.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Afflictive",
+      "decal_id": "rbxassetid://0",
+      "rating": 129.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Pandora",
+      "decal_id": "rbxassetid://0",
+      "rating": 129.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Destroiny",
+      "decal_id": "rbxassetid://0",
+      "rating": 130.0,
+      "type": "Class Finale",
+      "overview": "",
+      "class_id": "class_11",
+      "class_name": "Class 11"
+    },
+    {
+      "name": "Microwave",
+      "decal_id": "rbxassetid://0",
+      "rating": 131.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "Splitting",
+      "decal_id": "rbxassetid://0",
+      "rating": 132.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "Audiolizer",
+      "decal_id": "rbxassetid://0",
+      "rating": 133.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "Abolished",
+      "decal_id": "rbxassetid://0",
+      "rating": 134.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "MCrazy",
+      "decal_id": "rbxassetid://0",
+      "rating": 135.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "The Black Hole",
+      "decal_id": "rbxassetid://0",
+      "rating": 135.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "DeathWrath",
+      "decal_id": "rbxassetid://0",
+      "rating": 136.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "53?",
+      "decal_id": "rbxassetid://0",
+      "rating": 137.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "Complete:Discord",
+      "decal_id": "rbxassetid://0",
+      "rating": 138.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "RoorOmega",
+      "decal_id": "rbxassetid://0",
+      "rating": 139.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "Obstructed",
+      "decal_id": "rbxassetid://0",
+      "rating": 140.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "Inconvenience",
+      "decal_id": "rbxassetid://0",
+      "rating": 141.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "Libet's Delay",
+      "decal_id": "rbxassetid://0",
+      "rating": 142.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "Flummoxing",
+      "decal_id": "rbxassetid://0",
+      "rating": 142.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "Supermundane",
+      "decal_id": "rbxassetid://0",
+      "rating": 143.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "Broken",
+      "decal_id": "rbxassetid://0",
+      "rating": 144.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "Vigorous",
+      "decal_id": "rbxassetid://0",
+      "rating": 145.0,
+      "type": "6th Legendary / Class Finale",
+      "overview": "",
+      "class_id": "class_12",
+      "class_name": "Class 12"
+    },
+    {
+      "name": "Theoretical",
+      "decal_id": "rbxassetid://0",
+      "rating": 146.0,
+      "type": "7th Fabled",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "Arcanite",
+      "decal_id": "rbxassetid://0",
+      "rating": 147.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "Amalgam",
+      "decal_id": "rbxassetid://0",
+      "rating": 148.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "Doggo",
+      "decal_id": "rbxassetid://0",
+      "rating": 148.5,
+      "type": "Sub-difficulty",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "Shoving",
+      "decal_id": "rbxassetid://0",
+      "rating": 149.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "Difficultypedia",
+      "decal_id": "rbxassetid://0",
+      "rating": 150.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "There Is No Difficulty",
+      "decal_id": "rbxassetid://0",
+      "rating": 151.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "The Crystal HELL",
+      "decal_id": "rbxassetid://0",
+      "rating": 152.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "Omnipotent",
+      "decal_id": "rbxassetid://0",
+      "rating": 153.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "couch",
+      "decal_id": "rbxassetid://0",
+      "rating": 154.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "Are You Done Yet?",
+      "decal_id": "rbxassetid://0",
+      "rating": 155.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "Unorganized Reality",
+      "decal_id": "rbxassetid://0",
+      "rating": 156.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "Textify",
+      "decal_id": "rbxassetid://0",
+      "rating": 157.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "Acceptance",
+      "decal_id": "rbxassetid://0",
+      "rating": 158.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "Beyond Infinite",
+      "decal_id": "rbxassetid://0",
+      "rating": 159.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "Deranged.txt",
+      "decal_id": "rbxassetid://0",
+      "rating": 160.0,
+      "type": "Class Finale",
+      "overview": "",
+      "class_id": "class_13",
+      "class_name": "Class 13"
+    },
+    {
+      "name": "Aleph-Natsuki",
+      "decal_id": "rbxassetid://0",
+      "rating": 161.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Teardrop",
+      "decal_id": "rbxassetid://0",
+      "rating": 162.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Newarticletext",
+      "decal_id": "rbxassetid://0",
+      "rating": 162.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Destrall",
+      "decal_id": "rbxassetid://0",
+      "rating": 163.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Dolorem Aeterna",
+      "decal_id": "rbxassetid://0",
+      "rating": 164.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Dullard",
+      "decal_id": "rbxassetid://0",
+      "rating": 165.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Fearfulness",
+      "decal_id": "rbxassetid://0",
+      "rating": 166.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Kaizocore",
+      "decal_id": "rbxassetid://0",
+      "rating": 167.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Hallucinogenic",
+      "decal_id": "rbxassetid://0",
+      "rating": 168.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "The Absolute Dilly Impossible",
+      "decal_id": "rbxassetid://0",
+      "rating": 169.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "TITANICAL",
+      "decal_id": "rbxassetid://0",
+      "rating": 169.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Universal Destruction",
+      "decal_id": "rbxassetid://0",
+      "rating": 170.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Greyness",
+      "decal_id": "rbxassetid://0",
+      "rating": 171.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Just Difficulties and Towers",
+      "decal_id": "rbxassetid://0",
+      "rating": 172.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Divinity",
+      "decal_id": "rbxassetid://0",
+      "rating": 173.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Ostalute",
+      "decal_id": "rbxassetid://0",
+      "rating": 174.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Absolute",
+      "decal_id": "rbxassetid://0",
+      "rating": 175.0,
+      "type": "Chain/Class Finale",
+      "overview": "",
+      "class_id": "class_14",
+      "class_name": "Class 14"
+    },
+    {
+      "name": "Unknown",
+      "decal_id": "rbxassetid://0",
+      "rating": 176.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "Unhappy Slamo",
+      "decal_id": "rbxassetid://0",
+      "rating": 177.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "Noarticletext",
+      "decal_id": "rbxassetid://0",
+      "rating": 177.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "Inexplicable",
+      "decal_id": "rbxassetid://0",
+      "rating": 178.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "Hardest in the Room",
+      "decal_id": "rbxassetid://0",
+      "rating": 179.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "Devastating",
+      "decal_id": "rbxassetid://0",
+      "rating": 180.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "Indiscernible",
+      "decal_id": "rbxassetid://0",
+      "rating": 181.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "TON 618",
+      "decal_id": "rbxassetid://0",
+      "rating": 182.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "ΩmniΩmega",
+      "decal_id": "rbxassetid://0",
+      "rating": 183.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "Cataclysm",
+      "decal_id": "rbxassetid://0",
+      "rating": 184.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "CHAOS XD",
+      "decal_id": "rbxassetid://0",
+      "rating": 185.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "Sakupen",
+      "decal_id": "rbxassetid://0",
+      "rating": 186.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "Namibia",
+      "decal_id": "rbxassetid://0",
+      "rating": 187.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "Beyond",
+      "decal_id": "rbxassetid://0",
+      "rating": 188.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "Heat",
+      "decal_id": "rbxassetid://0",
+      "rating": 189.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "THE CURSED DIFFICULTY",
+      "decal_id": "rbxassetid://0",
+      "rating": 190.0,
+      "type": "7th Legendary",
+      "overview": "",
+      "class_id": "class_15",
+      "class_name": "Class 15"
+    },
+    {
+      "name": "Eternified Partyness",
+      "decal_id": "rbxassetid://0",
+      "rating": 191.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "Evolutionary",
+      "decal_id": "rbxassetid://0",
+      "rating": 192.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "Nightfall",
+      "decal_id": "rbxassetid://0",
+      "rating": 193.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "Doom O’ Clock",
+      "decal_id": "rbxassetid://0",
+      "rating": 194.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "Abjunctive",
+      "decal_id": "rbxassetid://0",
+      "rating": 195.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "Psychomania",
+      "decal_id": "rbxassetid://0",
+      "rating": 196.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "Aleph-Eternity",
+      "decal_id": "rbxassetid://0",
+      "rating": 197.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "Conclusion",
+      "decal_id": "rbxassetid://0",
+      "rating": 198.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "Zerstörung",
+      "decal_id": "rbxassetid://0",
+      "rating": 199.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "Tomfoolery",
+      "decal_id": "rbxassetid://0",
+      "rating": 200.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "Far Reaches of Impossibility",
+      "decal_id": "rbxassetid://0",
+      "rating": 201.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "P.O.S.S.I.B.L.E",
+      "decal_id": "rbxassetid://0",
+      "rating": 202.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "Conflicting",
+      "decal_id": "rbxassetid://0",
+      "rating": 203.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "Obscene",
+      "decal_id": "rbxassetid://0",
+      "rating": 204.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "KLJY",
+      "decal_id": "rbxassetid://0",
+      "rating": 205.0,
+      "type": "8th Fabled / Class Finale",
+      "overview": "",
+      "class_id": "class_16",
+      "class_name": "Class 16"
+    },
+    {
+      "name": "Mania",
+      "decal_id": "rbxassetid://0",
+      "rating": 206.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "Rubik's Cube",
+      "decal_id": "rbxassetid://0",
+      "rating": 207.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "N/A",
+      "decal_id": "rbxassetid://0",
+      "rating": 208.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "π",
+      "decal_id": "rbxassetid://0",
+      "rating": 209.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "4th Dimension",
+      "decal_id": "rbxassetid://0",
+      "rating": 210.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "Riftial",
+      "decal_id": "rbxassetid://0",
+      "rating": 211.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "Average Babass",
+      "decal_id": "rbxassetid://0",
+      "rating": 212.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "Patterns",
+      "decal_id": "rbxassetid://0",
+      "rating": 213.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "DYNAMICDUO",
+      "decal_id": "rbxassetid://0",
+      "rating": 214.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "Chaosmatic",
+      "decal_id": "rbxassetid://0",
+      "rating": 215.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "Collaborative Chaos",
+      "decal_id": "rbxassetid://0",
+      "rating": 216.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "Choice",
+      "decal_id": "rbxassetid://0",
+      "rating": 217.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "THE GREAT TRANASANIC COMBINATION",
+      "decal_id": "rbxassetid://0",
+      "rating": 218.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "Oh Rizz!",
+      "decal_id": "rbxassetid://0",
+      "rating": 219.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "Sunt Vera Ultima",
+      "decal_id": "rbxassetid://0",
+      "rating": 220.0,
+      "type": "8th Legendary / Class Finale",
+      "overview": "",
+      "class_id": "class_17",
+      "class_name": "Class 17"
+    },
+    {
+      "name": "Unfathomability",
+      "decal_id": "rbxassetid://0",
+      "rating": 221.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "IT TRANSCENDS ALL",
+      "decal_id": "rbxassetid://0",
+      "rating": 222.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "Ungraspable",
+      "decal_id": "rbxassetid://0",
+      "rating": 223.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "Aleph-Math",
+      "decal_id": "rbxassetid://0",
+      "rating": 224.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "Its Just A Burning Memory",
+      "decal_id": "rbxassetid://0",
+      "rating": 225.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "ABSOLUTELY UNPOSSIBLE",
+      "decal_id": "rbxassetid://0",
+      "rating": 226.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "Sanjay2133",
+      "decal_id": "rbxassetid://0",
+      "rating": 227.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "Psychotic Hell",
+      "decal_id": "rbxassetid://0",
+      "rating": 228.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "5th Dimension",
+      "decal_id": "rbxassetid://0",
+      "rating": 229.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "Psychosomatic",
+      "decal_id": "rbxassetid://0",
+      "rating": 230.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "Deterioration",
+      "decal_id": "rbxassetid://0",
+      "rating": 231.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "OneSection",
+      "decal_id": "rbxassetid://0",
+      "rating": 232.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "Megalomaniacal",
+      "decal_id": "rbxassetid://0",
+      "rating": 232.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "RGB",
+      "decal_id": "rbxassetid://0",
+      "rating": 233.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "Starglass",
+      "decal_id": "rbxassetid://0",
+      "rating": 234.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "DEADLY TUBULAR DEATH",
+      "decal_id": "rbxassetid://0",
+      "rating": 235.0,
+      "type": "Class Finale",
+      "overview": "",
+      "class_id": "class_18",
+      "class_name": "Class 18"
+    },
+    {
+      "name": "Mythic",
+      "decal_id": "rbxassetid://0",
+      "rating": 236.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Placeholder",
+      "decal_id": "rbxassetid://0",
+      "rating": 236.5,
+      "type": "Reserved / Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Endless",
+      "decal_id": "rbxassetid://0",
+      "rating": 237.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "BRUTAL CALAMITY",
+      "decal_id": "rbxassetid://0",
+      "rating": 238.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Prevalition",
+      "decal_id": "rbxassetid://0",
+      "rating": 238.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Transmaximal",
+      "decal_id": "rbxassetid://0",
+      "rating": 239.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Kenos",
+      "decal_id": "rbxassetid://0",
+      "rating": 240.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Inconceivable",
+      "decal_id": "rbxassetid://0",
+      "rating": 240.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "11th Dimension",
+      "decal_id": "rbxassetid://0",
+      "rating": 241.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Eviscerating",
+      "decal_id": "rbxassetid://0",
+      "rating": 241.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Spinning Skull",
+      "decal_id": "rbxassetid://0",
+      "rating": 242.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "ABSOLUTE INFINITY",
+      "decal_id": "rbxassetid://0",
+      "rating": 243.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Primal Babass",
+      "decal_id": "rbxassetid://0",
+      "rating": 244.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Culmination",
+      "decal_id": "rbxassetid://0",
+      "rating": 244.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Empyrean",
+      "decal_id": "rbxassetid://0",
+      "rating": 245.0,
+      "type": "Normal",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "True Hell",
+      "decal_id": "rbxassetid://0",
+      "rating": 245.5,
+      "type": "Sub-Difficulty",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Effortful",
+      "decal_id": "rbxassetid://0",
+      "rating": 246.0,
+      "type": "9th Fabled",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Unboundable",
+      "decal_id": "rbxassetid://0",
+      "rating": 247.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Uncomputable",
+      "decal_id": "rbxassetid://0",
+      "rating": 248.0,
+      "type": "Chain",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Undefinable",
+      "decal_id": "rbxassetid://0",
+      "rating": 249.0,
+      "type": "9th Legendary / Chain / Class Finale",
+      "overview": "",
+      "class_id": "class_19",
+      "class_name": "Class 19"
+    },
+    {
+      "name": "Penultimate",
+      "decal_id": "rbxassetid://0",
+      "rating": 250.0,
+      "type": "10th Legendary / Class Finale",
+      "overview": "",
+      "class_id": "class_20a",
+      "class_name": "Class 20A"
+    },
+    {
+      "name": "Unreachable",
+      "decal_id": "rbxassetid://0",
+      "rating": "???",
+      "type": "Cardinal",
+      "overview": "",
+      "class_id": "class_20a",
+      "class_name": "Class 20A"
+    },
+    {
+      "name": "Immaculate",
+      "decal_id": "rbxassetid://0",
+      "rating": "???",
+      "type": "Cardinal",
+      "overview": "",
+      "class_id": "class_20a",
+      "class_name": "Class 20A"
+    },
+    {
+      "name": "Fragmentized",
+      "decal_id": "rbxassetid://0",
+      "rating": "???",
+      "type": "Cardinal",
+      "overview": "",
+      "class_id": "class_20a",
+      "class_name": "Class 20A"
+    },
+    {
+      "name": "Conglomerated",
+      "decal_id": "rbxassetid://0",
+      "rating": "???",
+      "type": "Cardinal",
+      "overview": "",
+      "class_id": "class_20a",
+      "class_name": "Class 20A"
+    },
+    {
+      "name": "Summation",
+      "decal_id": "rbxassetid://0",
+      "rating": "???",
+      "type": "Cardinal",
+      "overview": "",
+      "class_id": "class_20a",
+      "class_name": "Class 20A"
+    },
+    {
+      "name": "Liminal",
+      "decal_id": "rbxassetid://0",
+      "rating": "251+",
+      "type": "Ordinal",
+      "overview": "",
+      "class_id": "class_21",
+      "class_name": "Class 21"
+    },
+    {
+      "name": "Transcendence",
+      "decal_id": "rbxassetid://0",
+      "rating": "251+",
+      "type": "Ordinal",
+      "overview": "",
+      "class_id": "class_21",
+      "class_name": "Class 21"
+    },
+    {
+      "name": "Uber",
+      "decal_id": "rbxassetid://0",
+      "rating": "251+",
+      "type": "Ordinal",
+      "overview": "",
+      "class_id": "class_21",
+      "class_name": "Class 21"
+    },
+    {
+      "name": "Ineffable",
+      "decal_id": "rbxassetid://0",
+      "rating": "251+",
+      "type": "Ordinal",
+      "overview": "",
+      "class_id": "class_21",
+      "class_name": "Class 21"
+    },
+    {
+      "name": "Inutilis",
+      "decal_id": "rbxassetid://0",
+      "rating": "251+",
+      "type": "Ordinal",
+      "overview": "",
+      "class_id": "class_21",
+      "class_name": "Class 21"
+    },
+    {
+      "name": "Babass dficuklty",
+      "decal_id": "rbxassetid://0",
+      "rating": "Unending",
+      "type": "ETHEREAL",
+      "overview": "",
+      "class_id": "class_secret",
+      "class_name": "Class Secret"
+    },
+    {
+      "name": "The Final Difficulty.",
+      "decal_id": "rbxassetid://0",
+      "rating": "inf",
+      "type": "Primordial",
+      "overview": "",
+      "class_id": "class_22",
+      "class_name": "Class 22"
+    }
+  ]
+}

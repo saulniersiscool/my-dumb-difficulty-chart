@@ -1,0 +1,139 @@
+{
+  "class_id": "class_0",
+  "class_name": "Class 0",
+  "description": "This class is automatic, meaning no inputs are required to beat a difficulty, therefore literally anyone can do difficulties of this class. Losing to this class may result from intentionally messing up, disconnection, or bugged physics.",
+  "difficulties": [
+    {
+      "name": "Millisecondless",
+      "decal_id": "rbxassetid://13964360470",
+      "rating": -30,
+      "overview": "Millisecondless is a difficulty in Baseline Class 0 with a rating of -30, placing it after Instant Win, Millisecondless’ predecessor, and the final class negative difficulty, but placing it before Win, Millisecondless’ successor. It also does have a sub-difficulty, Astronomical, however, you'll see more about that in it's own page. This difficulty also has a Kol Metris rating of approximately |0.5|, meaning that it in the middle/near the middle of the Relax through Automatic range of difficulty. This difficulty is humanly possible, meaning that literally anyone, even you, could potentially beat this. However, this difficulty is Baseline Class 0, meaning that it is basically unlosable, and the only way that you can lose is by disconnecting, or by bugs happening."
+    },
+    {
+      "name": "Astronomical",
+      "decal_id": "rbxassetid://15662339029",
+      "rating": -29.5,
+      "overview": "Astronomical is a baseline Class 0 Sub-Difficulty of Millisecondless. This is Between Millisecondless and Win with a difficulty rating of -85 and a Kol Metric of ~|0|\n\nRight off the bat this is buildable and humanly possible! This is the second to last instant win difficulty in the entire chart, so after this is just waiting, jumping, ladder, flicks, conveyors, and more.\n\nThe only way you can actually lose is if the teleporter is broken or anything is displayed of Restful and more."
+    },
+    {
+      "name": "Win",
+      "decal_id": "rbxassetid://6382362796",
+      "rating": -29,
+      "overview": "Win is the second difficulty (third if you count sub-difficulties) in Class 0. The only thing you can do here is win this difficulty, as the only obstacles are extremely short waiting periods. There is no way to lose. Well, there is, but most of the ways you could do so are highly improbable. "
+    },
+    {
+      "name": "Winsome",
+      "decal_id": "rbxassetid://137182508877484",
+      "rating": -28,
+      "overview": "Winsome is an Unofficial Class 0 difficulty. This specific difficulty lies after Win, yet before Do Nothing. It has a rating of -28, and is the supposed final difficulty in the \"Chain of Winning\", which isn’t actually an established chain."
+    },
+    {
+      "name": "Do Nothing",
+      "decal_id": "rbxassetid://7662806869",
+      "rating": -27,
+      "overview": "Do Nothing is a Class 0 difficulty that succeeds Winsome, but preceeds Sleepful. As the name says, you'd do absolutely nothing, Not even breathe and you some how still manage to win. This difficulty is pretty quick, and even if you look away or blink slightly, you'd miss it, at least on the lower parts. "
+    },
+    {
+      "name": "Sleepful",
+      "decal_id": "rbxassetid://18373942150",
+      "rating": -26.5,
+      "overview": "Sleepful is a Class 0 sub-difficulty that falls between Do Nothing and Blessing. This particular challenge is based on the concept of Restful, emphasizing the importance of getting a good night's sleep.\n\nWhat makes Sleepful so appealing is its extreme simplicity and automation. With a tier rating and Metris measurement that are both exceedingly low, Sleepful is not included in this discussion. However, it's worth noting that the difficulty rating for Sleepful is an astonishing -26.5. "
+    },
+    {
+      "name": "Blessing",
+      "decal_id": "rbxassetid://15671964480",
+      "rating": -26,
+      "overview": "Welcome to Blessing! Where you can have fun, have some good days, and even beating it easily! Plus this difficulty is between Do Nothing and Vintage.This difficulty contains mechanics such as: elevators, conveyors, jump pads and more! these are painless so don't worry, you will be fine. Well, you will just have fun there since this difficulty is already a Class 0 even though its longer and harder than Do Nothing. "
+    },
+    {
+      "name": "Vintage",
+      "decal_id": "rbxassetid://16556628560",
+      "rating": -25,
+      "overview": "Vintage is a Class 0 difficulty that is before Just Air (Ifinitude if we're talking about sub-difficulties) but after Blessing. This difficulty also has a sub-difficulty named Ifinitude. This difficulty is also super easy, you don’t even need any skill to beat it due to how easy it is. This difficulty is also in Class 0's upper bound, so it is a little harder than difficulties in the lower bound. "
+    },
+    {
+      "name": "Ifinitude",
+      "decal_id": "rbxassetid://16257720556",
+      "rating": -24.5,
+      "overview": "Ifinitude is a sub-difficulty of Vintage that lies between Vintage and Just Air. The difficulty is currently in Class 0, and like other difficulties in this class, you do not have to do anything to complete it. That's right, you don't even need to touch your keyboard once you enter the structure, theres also an INFINITUDE alternate ways to win it. The difficulty is a remembrance of the ifinite chain that had existed since 2020 but has now since graved. "
+    },
+    {
+      "name": "Just Air",
+      "decal_id": "rbxassetid://92197573996396",
+      "rating": -24,
+      "overview": "Just Air is a Class 0 difficulty that is represented with a sky blue background and a digitally-written white 'H'. You could try this after Win or Do Nothing, since the point is you just fall into a winpad, if not be elevated into one. If you think you are going to lose this, you are wrong. air go brr (made by notaltar/Veblicon at 28th october 2020. "
+    },
+    {
+      "name": "Happylike",
+      "decal_id": "rbxassetid://13964564417",
+      "rating": -23,
+      "overview": "Welcome to Happylike! As you can see in the infobox, it's between Just Air and Locomotion.\nYou can obviously see that this is Just Air but 1.2x harder. Altrough, it's 1.1x easier than Locomotion. And obviously, this difficulty is honestly pretty easy if you ask. Heck, it is automatic. There will sure be many obstacles but again, all of these are automatic. (NO NOT THE DIFFICULTY)\nThis difficulty has an MDC rating of -23 and comparing this to the last difficulty of C0, Spontaneous, it's like comparing Disco with Skip which are instant win difficulties."
+    },
+    {
+      "name": "Locomotion",
+      "decal_id": "rbxassetid://14037195389",
+      "rating": -22,
+      "overview": "Well done on surpassing the joyous difficulty Happylike! It was extremely easy completing all of its obstacles. Now you move on to more motion upon the difficulty Locomotion. You will be introduced to conveyors, a new object. Conveyors transport you (or any other parts) to different places. Conveyors have a abillity upon editing them to either change the speed, show their arrows, etc. This difficulty will only showcase you the fast conveyors, as the slow conveyors will be in the difficulties like Unlosable and Automatic. Conveyors are common parts, meaning you will see them on a lot of more difficulties soon. "
+    },
+    {
+      "name": "Walkthrough",
+      "decal_id": "rbxassetid://13966882398",
+      "rating": -21,
+      "overview": "Walkthrough is a Class 0 difficulty that succeeds Locomotion and precedes Automatic Joyful. Just like the rest of the difficulties in this class, this difficulty is a breeze. Towers of this difficulty are typically other towers, but the obstacles are done for you, similarly to walkthrough videos of games. You don't have to do anything, as the player will automatically move through the obstacles. As an example, you could take Citadel of Void, add scripts to make the player do the jumps automatically, and call it a Walkthrough difficulty tower. "
+    },
+    {
+      "name": "Automatic Joyful",
+      "decal_id": "rbxassetid://117654809225140",
+      "rating": -20,
+      "overview": "Automatic Joyful is a few Humanly Possible difficulty that is completely automatic which is located in the Upper gap of Class Negative. It has a rating of -20 and was put between Walkthrough (-21) and Unlosable (-19).\n\nThis difficulty is still extremely easy, you can easily tell why, it’s literally an automatic difficulty with obstacles that required absolutely no effort whatsoever. "
+    },
+    {
+      "name": "Unlosable",
+      "decal_id": "rbxassetid://7708394282",
+      "rating": -19,
+      "overview": "Unlosable is a Class 0 Difficulty with a rating of -19, coming after Automatic Joyful, and before Automatic. Due to it being one of the original C1 difficulties, it has had many difficulties before and after this, and also many sub difficulties in its lifetime. However, it currently only has 2 unofficial sub-difficulties (both of them being variations), with them being Roll and Mazeophobia. Anyway, you should easily be able to ace this, due to it being similar to nerfed Automatic, and therefore there is a minimal chance of accidental failure. "
+    },
+    {
+      "name": "Roll",
+      "decal_id": "rbxassetid://6849220574",
+      "rating": -18.75,
+      "overview": "Roll is an Unlosable Variation but instead of conveyors, you're in a hollow ball that is rolling down a slope/slide, and the ball will automatically disappear once it touches the winpad, making you win. The length of the slide can be any size aslong as it doesnt take over 1 minute, or any less than 1 second, since this difficulty is meant to be completed quickly, and to prevent loopholes such as an infinite slide. "
+    },
+    {
+      "name": "Mazeophobia",
+      "decal_id": "rbxassetid://6405599378",
+      "rating": -18.5,
+      "overview": "Mazeophobia is a Low Class 0 In-between Unlosable and Unmissable. Obstacles in this difficulty are much harder than those in Unloseable, its just fast conveyors instead in a form of mazes. This is basically 'Maze Unloseable' where there is a maze, filled with conveyors, and at start the conveyors take you to the exit of the maze, where the winpad/teleporter is at. "
+    },
+    {
+      "name": "Shattered Babass",
+      "decal_id": "rbxassetid://6708826357",
+      "rating": -18.25,
+      "overview": "Shattered Babass is a Class 0 Difficulty coming before Automatic but is after Unlosable, Roll or Mazeophobia This difficulty is the second last automatic difficulty behind obviously Automatic. Shattered Babass is basically too easy so just skip to Class 1, or even Class 2, but if you ACTUALLY SUCK then stay here for now, actually you know what, skip to Automatic . There is no reason to be on this sub-difficulty (if you aren't in a DCT, that is). "
+    },
+    {
+      "name": "Frivolous",
+      "decal_id": "rbxassetid://17487417765",
+      "rating": -18,
+      "overview": "Frivolous is a Class 0 difficulty, specifically in the Peak range of the class. It is the antepenultimate difficulty of it's class, in-between Unlosable, one of the first difficulties to utilize conveyors (alternatively, Shattered Babass) and Automatic, the first JET difficulty (alternatively, Vibeness).\n\nFrivolous is classified as humanly possible, which indicates that it is beatable without the usage of any assists, such as coils or a TAS. It also is one of the easiest possible difficulties. In fact, it is easy enough that all humans should be able to successfully complete it without interacting with their character. "
+    },
+    {
+      "name": "Vibeness",
+      "decal_id": "rbxassetid://134271949076221",
+      "rating": -17.5,
+      "overview": "Vibeness is one of many examples of automatic difficulties, notable examples include Locomotion, Happylike, Unlosable, and many other difficulties, especially the custom ones that aren't on the Difficulty Chart. Like many automatic difficulties, the gameplay is mostly conveyors, elevators including X,Y,Z positions, jump pads, teleports, ziplines, etc."
+    },
+    {
+      "name": "Automatic",
+      "decal_id": "rbxassetid://6382419173",
+      "rating": -17,
+      "overview": "Welcome to Automatic, <|Username|>! also known as a very boring difficulty. But that's fine, because it is very easy! Actually, you don't even need to do anything to beat this difficulty! Just sit back and watch your Roblox character get pushed to the winpad/teleporter! It is a.. Very boring experience, but. You'll get to the hang of it. Have fun! That was ironic by the way..."
+    },
+    {
+      "name": "Spontaneous",
+      "decal_id": "rbxassetid://12646657234",
+      "rating": -16,
+      "overview": "What is Spontaneous?\n\nWell, Spontaneous is an incredibly simple class 0 difficulty and a successor of Automatic and a predecessor of Joyful, the first difficulty requiring input. This difficulty does not require any input but is possible to fail if one was to try to do so deliberately. This means you can go AFK and still win, since you don't have to do anything! Due to this, it is one of the easiest difficulties one may encounter in the chart. "
+    }
+  ]
+}

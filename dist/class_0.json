@@ -1,0 +1,161 @@
+{
+  "class_id": "class_0",
+  "class_name": "Class 0",
+  "description": "This class is automatic, meaning no inputs are required to beat a difficulty, therefore literally anyone can do difficulties of this class. Losing to this class may result from intentionally messing up, disconnection, or bugged physics. Rating Range: -30 to -16 Difficulties: 15 Sub-Difficulties: 7 Chains: 1 Total: 23 Grand Total: 40",
+  "difficulties": [
+    {
+      "name": "Millisecondless",
+      "decal_id": "rbxassetid://0",
+      "rating": -30.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Astronomical",
+      "decal_id": "rbxassetid://0",
+      "rating": -29.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Win",
+      "decal_id": "rbxassetid://0",
+      "rating": -29.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Winsome",
+      "decal_id": "rbxassetid://0",
+      "rating": -28.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Do Nothing",
+      "decal_id": "rbxassetid://0",
+      "rating": -27.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Sleepful",
+      "decal_id": "rbxassetid://0",
+      "rating": -26.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Blessing",
+      "decal_id": "rbxassetid://0",
+      "rating": -26.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Vintage",
+      "decal_id": "rbxassetid://0",
+      "rating": -25.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Ifinitude",
+      "decal_id": "rbxassetid://0",
+      "rating": -24.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Just Air",
+      "decal_id": "rbxassetid://0",
+      "rating": -24.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Happylike",
+      "decal_id": "rbxassetid://0",
+      "rating": -23.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Locomotion",
+      "decal_id": "rbxassetid://0",
+      "rating": -22.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Walkthrough",
+      "decal_id": "rbxassetid://0",
+      "rating": -21.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Automatic Joyful",
+      "decal_id": "rbxassetid://0",
+      "rating": -20.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Unlosable",
+      "decal_id": "rbxassetid://0",
+      "rating": -19.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Roll",
+      "decal_id": "rbxassetid://0",
+      "rating": -18.75,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Mazeophobia",
+      "decal_id": "rbxassetid://0",
+      "rating": -18.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Shattered Babass",
+      "decal_id": "rbxassetid://0",
+      "rating": -18.25,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Frivolous",
+      "decal_id": "rbxassetid://0",
+      "rating": -18.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Vibeness",
+      "decal_id": "rbxassetid://0",
+      "rating": -17.5,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Automatic",
+      "decal_id": "rbxassetid://0",
+      "rating": -17.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Spontaneous",
+      "decal_id": "rbxassetid://0",
+      "rating": -16.0,
+      "type": "Class Finale",
+      "overview": ""
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "total_difficulties": 462,
+  "total_classes": 26,
+  "total_chains": 4,
+  "classes": [
+    {
+      "class_id": "class_0",
+      "class_name": "Class 0",
+      "description": "This class is automatic, meaning no inputs are required to beat a difficulty, therefore literally anyone can do difficulties of this class. Losing to this class may result from intentionally messing up, disconnection, or bugged physics. Rating Range: -30 to -16 Difficulties: 15 Sub-Difficulties: 7 Chains: 1 Total: 23 Grand Total: 40",
+      "difficulty_count": 22,
+      "file": "class_0.json"
+    },
+    {
+      "class_id": "class_1",
+      "class_name": "Class 1",
+      "description": "This is the first class to require doing things. Joyful requires you to jump, Press a Key requires you to use movement keys, and at mid Class 1 is where both are required to be done simultaneously. The journey to The Final Difficulty starts here. Good luck. Rating Range: -15 to -1 Difficulties: 15 Sub-Difficulties: 17 Chains: 2 Total: 34 Grand Total: 74",
+      "difficulty_count": 33,
+      "file": "class_1.json"
+    },
+    {
+      "class_id": "class_10",
+      "class_name": "Class 10",
+      "description": "This class exceeds Roblox's floating point, meaning obstacles will be unbuildable. They'll get exponentially harder per difficulty towards the quintillions, which is the 64-bit limit. While your hard drive won't crash when attempting to build these C10 obstacles, please refrain from doing so anyway as they'll most likely be inaccurate. Additionally, this class marks both reality and theoretical possibility's peaks due to the obstacles nearing the 64-bit limit. Rating Range: 106 to 115 Difficulties: 11 Sub-Difficulties: 3 Chains: 1 Total: 15 Grand Total: 288",
+      "difficulty_count": 14,
+      "file": "class_10.json"
+    },
+    {
+      "class_id": "class_11",
+      "class_name": "Class 11",
+      "description": "Welcome to the beginning of the Extended Difficulty Chart. This marks the start of fiction and unbuildability, so obstacles aren't able to be done directly in Roblox but instead fictionally due to exceeding the 64-bit limit. Adding to that, the obstacles in Peak Class 11 are more than squared of the obstacles in Baseline Class 11, which are slightly above the 64-bit limit, and they're becoming less basic so more complex methods may be required.",
+      "difficulty_count": 21,
+      "file": "class_11.json"
+    },
+    {
+      "class_id": "class_12",
+      "class_name": "Class 12",
+      "description": "Numbers surpass a googol from this point, making these difficulties in this class absolutely diabolical. Completing/recreating a difficulty in Class 12 will be hopeless to attempt since numbers beyond this point would exceed the number of Planck times since the Big Bang or the number of atoms in the universe and therefore would be basically unable to be represented normally as well.",
+      "difficulty_count": 17,
+      "file": "class_12.json"
+    },
+    {
+      "class_id": "class_13",
+      "class_name": "Class 13",
+      "description": "As this class name suggests, numbers now exceed the commonly used 1024-bit limit, making this class the start of theoretical impossibility. As these difficulties still exist as concepts only, imagination can go wild. However, difficulties cannot leak to real life, but even if otherwise, they aren't as concrete.",
+      "difficulty_count": 16,
+      "file": "class_13.json"
+    },
+    {
+      "class_id": "class_14",
+      "class_name": "Class 14",
+      "description": "From now on, numbers in each class increase by at least 1 hyperpower per section, hexation as the peak of this class. Difficulties and obstacles get exponentially more insane to the point where they're practically unimaginable by most, and make many obstacles multiversally specific, complex, and precise.",
+      "difficulty_count": 17,
+      "file": "class_14.json"
+    },
+    {
+      "class_id": "class_15",
+      "class_name": "Class 15",
+      "description": "This class marks the limit of normal logic, meaning that next class will feature beaking logical reasoning. Numbers in this class exceed most, if not, all calculability due to how lengthy the numbers are, which most computers are likely unable to calculate, and at this point, Spiritual Roblox is essential to progress further. Comparing buildability to this would show a great contrast in difficulty, likely comparable to comparing the entry-level of the Main Difficulty Chart to higher classes such as Class 8/9.",
+      "difficulty_count": 16,
+      "file": "class_15.json"
+    },
+    {
+      "class_id": "class_16",
+      "class_name": "Class 16",
+      "description": "To begin a difficulty in this class... well, it is hard to say where to begin. Many of these difficulties at this point would contain catches that would contradict the natures of difficulties themselves, making themselves even more of an abstract concept, except now even more indecipherable than before. To even enter a Class 16 difficulty would be a grand achievement. In difficulties like these, there may be catches that prevent the player from accessing the difficulty; for example, there may catches stating that the player must complete the next difficulty to access the difficulty, or that they are not allowed to enter the difficulty, but yet have to complete it to advance. This class also used to be the final class in the difficulty chart before the chart was extended to 32 classes, and then to 35. Then, the Extermination happened, causing the chart to shrink to 24 classes, along with this class being changed to Class 16.",
+      "difficulty_count": 15,
+      "file": "class_16.json"
+    },
+    {
+      "class_id": "class_17",
+      "class_name": "Class 17",
+      "description": "This class marks the finite limit of numbers, hence it being important on the difficulty chart. Class 17 contains uncomputable numbers, colossal numbers that are abstract and difficult to understand. Beyond Sunt Vera Ultima are ordinal numbers and beyond, which are incomprehensibly larger than class 22.",
+      "difficulty_count": 15,
+      "file": "class_17.json"
+    },
+    {
+      "class_id": "class_18",
+      "class_name": "Class 18",
+      "description": "Infinity starts here and from on and out, transcendental impossibility begins. As said in Class 18's description, Class 19 marks the start of infinite/ordinal/cardinal numbers and beyond. This used to be the end of the difficulty chart, until the chart was extended to include 30 classes, being named Class 25. Later on, it was later renamed to Class 28 | Transcending when 3 new classes were introduced to better accomodate the progression of the Extended Difficulty Chart. Then, the Extermination happened, and this got changed to Class 19.",
+      "difficulty_count": 16,
+      "file": "class_18.json"
+    },
+    {
+      "class_id": "class_19",
+      "class_name": "Class 19",
+      "description": "You're nearing the end as these difficulties break beyond imagination. Past this class lies Effortful, the Un-Chain, the Cardinals, Penultimate, and the quintet of ordinals that bridge and connect the gap between the extended chart and TFinD. What lies between you and the end is sheer pain and misery because of the insane logic these difficulties have.",
+      "difficulty_count": 20,
+      "file": "class_19.json"
+    },
+    {
+      "class_id": "class_2",
+      "class_name": "Class 2",
+      "description": "The majority of Roblox players’s skill level is at this class, including the skill of average EToH players. These difficulties consist of the non-soul crushing EToH difficulties, the one you would find in the majority of EToH towers. This class ranges from small jumps such as a 1 stud wraparound in Effortless all the way up to advanced techniques like basic wall-hopping, 10 stud wraparounds, and many others. Rating Range: 0 to 8 Difficulties: 17 Sub-Difficulties: 17 Chains: 4 Total: 38 Grand Total: 112",
+      "difficulty_count": 35,
+      "file": "class_2.json"
+    },
+    {
+      "class_id": "class_20a",
+      "class_name": "Class 20A",
+      "description": "[TO BE ADDED]",
+      "difficulty_count": 6,
+      "file": "class_20a.json"
+    },
+    {
+      "class_id": "class_20b",
+      "class_name": "Class 20B",
+      "description": "Description of this class goes here.",
+      "difficulty_count": 0,
+      "file": "class_20b.json"
+    },
+    {
+      "class_id": "class_21",
+      "class_name": "Class 21",
+      "description": "Here lies the ordinal quintet, not being actual difficulties, but rather obstacle courses, the final challenge before The Final Difficulty. Each ordinal represents an endlessly unbeatable barrier you must overcome, though none can truly compare to the finale. Rating estimates were given, but these ordinals are infinite, albeit not in the same sense or timeline as TFinD. However, they serve to prepare the player for what may inevitably be the end of the difficulty chart.",
+      "difficulty_count": 6,
+      "file": "class_21.json"
+    },
+    {
+      "class_id": "class_22",
+      "class_name": "Class 22",
+      "description": "This class is reserved for The Final Difficulty, and nothing more. People say this has a rating of 100, but no, that is Vrery hawrfd rdifficutl!!. 250? No, that is Penultimate. This, my friend, is infinity; the supremum of all finite numbers. The finale of this chart is located alone here because it simply cannot be overshadowed or compared to, at least on this wiki. Even if you have an infinite amount of separate unique catches, none can even get close to THIS.. Nonetheless, this is the end, also called Class ∞. Welcome to Class 22 | Finale, your ending place that you simply cannot continue from. Anything that is apparently harder than this is said difficulty.",
+      "difficulty_count": 1,
+      "file": "class_22.json"
+    },
+    {
+      "class_id": "class_3",
+      "class_name": "Class 3",
+      "description": "This class marks the start of soul crushing difficulties, and is near the limit of human possibility. People who beat towers of this class of difficulties are considered to be \"Elite Obbyists\". Many people beat towers such as Tower of Difficulty Chart, Tower of Double Trouble, or Tower of Thinning Layers as their first towers in this class. A lot of towers in this class are mostly purist, but plenty of towers in this class are based around client objects. Almost every tower in Pit of Misery is in this class range as well. People who make it to difficulties that are this deep are very good at obbies, whether they have 30 or 250 towers beaten. People on the higher end of Class 3 have beaten many towers in the top list, which might only be Terrifying/Catastrophic or have even beaten the hardest towers verified, that is, Tower of Blind Fate and Citadel of Infinite Void. Many tiered obbyists, are in this class. For context, tiered obbies are purist that usually do not have a frame, and have their own dimensions. They are usually the same length as EToH towers. Rating Range: 8.5 to 15.5 Difficulties: 15 Sub-Difficulties: 14 Chains: 3 Total: 32 Grand Total: 144",
+      "difficulty_count": 29,
+      "file": "class_3.json"
+    },
+    {
+      "class_id": "class_4",
+      "class_name": "Class 4",
+      "description": "This class marks the start of human impossibility, at least in the case that towers in Bottom Class 4 haven’t been beaten yet. Obstacles in this class are still possible to do, but in some cases they are barely possible. This class also contains most of EHT, which is EToH’s Hardest Towers. Bottom Class 4 towers may be possible to beat, but the near-impossible obstacles present like RNG makes them practically humanly impossible. As a result, it is highly recommended to use TAS to beat towers of this difficulty. Rating Range: 16 to 30 Difficulties: 15 Sub-Difficulties: 16 Chains: 4 Total: 35 Grand Total: 179",
+      "difficulty_count": 32,
+      "file": "class_4.json"
+    },
+    {
+      "class_id": "class_5",
+      "class_name": "Class 5",
+      "description": "This class used to be the beginning of enigmatically impossible gameplay. It is also known as the red zone, due to every difficulty here being red-colored, as it was blasted into the volcano. Good luck, since these difficulties will be brutal, being past what was thought to be the limit of gameplay as a whole. Also, random history facts! This class is a combination of previous class 6 (which started at Malicious and ended at Vicious, which was after Mischievous) and the first part of class 7, which was also known as the red zone. As a result, the icons of all the difficulties residing in the previous class 6 were changed to become red, and now class 6 looks super cool being red! Rating Range: 31 to 45 Difficulties: 15 Sub-Difficulties: 6 Chains: 2 Total: 23 Grand Total: 202",
+      "difficulty_count": 21,
+      "file": "class_5.json"
+    },
+    {
+      "class_id": "class_6",
+      "class_name": "Class 6",
+      "description": "This class is the last class in physical possibility, and by extension, the last class of partial impossibility. This means that even with luck glitches, you might not be able to do obstacles in this difficulty. If at all there is a chance of being able to beat an obstacle in the lower end of this class without luck glitches, even with basic TAS usage, the chances are extremely slim. There also happens to be two chains here; the Road to Pseudo-Difficulties, a prominent chain of former Class 7, and Mike's Difficulty Chart chain, which was a former member of Class 8, initially consisting of 5 main difficulties, which have since then become 2 main difficulties and 3 sub-difficulties. Rating Range: 46 to 60 Difficulties: 7 Sub-Difficulties: 6 Chains: 13 Total: 26 Grand Total: 228",
+      "difficulty_count": 24,
+      "file": "class_6.json"
+    },
+    {
+      "class_id": "class_7",
+      "class_name": "Class 7",
+      "description": "Difficulties beyond this point are physically impossible, meaning few, if not, no legitimate method other than TAS as long as it does not affect physics, speed/jump/gravity, or isn't abused can beat the easiest difficulty in this class. Obstacles also start to get exponentially larger in size. At this point, the gaps between difficulties drift farther and farther apart, comparable to comparing the easiest of EToH towers to the hardest ones. Rating Range: 61 to 75 Difficulties: 15 Sub-Difficulties: 11 Chains: 5 Total: 26 Grand Total: 228",
+      "difficulty_count": 28,
+      "file": "class_7.json"
+    },
+    {
+      "class_id": "class_8",
+      "class_name": "Class 8",
+      "description": "God mode and even noclip are absolutely essential for difficulties in this class, and obstacles, like long jumps and wraparounds can even reach triple digits. Most parts of towers in difficulties of this class are kill bricks, preferably instakills. Additionally, plenty of towers in this class are joke towers. Some towers in this difficulty are even super-buffed variants of some iconic EToH towers. This class is also home to 2 popular difficulties from old EJT, both of which are now fabled difficulties. Rating Range: 76 to 90 Difficulties: 15 Sub-Difficulties: 10 Chains: 2 Total: 27 Grand Total: 255",
+      "difficulty_count": 25,
+      "file": "class_8.json"
+    },
+    {
+      "class_id": "class_9",
+      "class_name": "Class 9",
+      "description": "By this point, building towers of this class exceed Obby Creator's 1000 stud limit. However hard it may be, Roblox Studio is doable despite the limits albeit being far higher than Obby/Tower Creator's limits. We slowly approach the final buildable limit, which is located right after this class. Rating Range: 91 to 105 Difficulties: 12 Sub-Difficulties: 1 Chains: 5 Total: 18 Grand Total: 273",
+      "difficulty_count": 16,
+      "file": "class_9.json"
+    },
+    {
+      "class_id": "class_negative",
+      "class_name": "Class Negative",
+      "description": "Welcome to the start of the difficulty chart. These difficulties are so easy you're probably not noticing you're winning them so many times a second. In fact, as you are reading this, you're probably winning these difficulties an uncountable times per second. These difficulties are so easy that trying to lose them is as hard as the end of the difficulty chart itself. You don’t have to be in any Roblox game, let alone even doing anything. Some of these difficulties don’t even require you to exist. Rating Range: -∞ to -31 Difficulties: 15 Sub-Difficulties: 0 Chains: 2 Total: 17 Grand Total: 17",
+      "difficulty_count": 16,
+      "file": "class_negative.json"
+    },
+    {
+      "class_id": "class_secret",
+      "class_name": "Class Secret",
+      "description": "This is the home of Babass itself. This difficulty is much more legendary, way more important than the Primordials. It is Ethereal. You don't understand how difficult this difficulty is. If you took TFinD and compared it… I don't even know what it would be. It probably wouldn’t even be comparing TFirD to TFinD, so nothing even exists at this magnitude. If you managed to beat the rest of the chart combined, this will be your true stopping point. Why? Because there's literally nothing after this. This is your end. Nobody is beating this.",
+      "difficulty_count": 1,
+      "file": "class_secret.json"
+    }
+  ],
+  "chains": [
+    {
+      "chain_id": "death",
+      "chain_name": "Death Chain",
+      "description": "Description of this chain goes here.",
+      "difficulty_count": 0,
+      "file": "chains/death.json"
+    },
+    {
+      "chain_id": "error",
+      "chain_name": "Error Chain",
+      "description": "Description of this chain goes here.",
+      "difficulty_count": 0,
+      "file": "chains/error.json"
+    },
+    {
+      "chain_id": "excavation",
+      "chain_name": "Excavation Chain",
+      "description": "Description of this chain goes here.",
+      "difficulty_count": 0,
+      "file": "chains/excavation.json"
+    },
+    {
+      "chain_id": "gar",
+      "chain_name": "Gar Chain",
+      "description": "Description of this chain goes here.",
+      "difficulty_count": 0,
+      "file": "chains/gar.json"
+    }
+  ]
+}

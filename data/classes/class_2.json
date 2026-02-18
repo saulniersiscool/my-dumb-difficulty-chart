@@ -1,0 +1,253 @@
+{
+  "class_id": "class_2",
+  "class_name": "Class 2",
+  "description": "The majority of Roblox players’s skill level is at this class, including the skill of average EToH players. These difficulties consist of the non-soul crushing EToH difficulties, the one you would find in the majority of EToH towers. This class ranges from small jumps such as a 1 stud wraparound in Effortless all the way up to advanced techniques like basic wall-hopping, 10 stud wraparounds, and many others. Rating Range: 0 to 8 Difficulties: 17 Sub-Difficulties: 17 Chains: 4 Total: 38 Grand Total: 112",
+  "difficulties": [
+    {
+      "name": "Effortless",
+      "decal_id": "rbxassetid://0",
+      "rating": 0.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Playground",
+      "decal_id": "rbxassetid://0",
+      "rating": 0.25,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Elementary",
+      "decal_id": "rbxassetid://0",
+      "rating": 0.5,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Simple",
+      "decal_id": "rbxassetid://0",
+      "rating": 0.75,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Easy",
+      "decal_id": "rbxassetid://0",
+      "rating": 1.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Neat",
+      "decal_id": "rbxassetid://0",
+      "rating": 1.25,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Calm",
+      "decal_id": "rbxassetid://0",
+      "rating": 1.5,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Switch",
+      "decal_id": "rbxassetid://0",
+      "rating": 1.75,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Medium",
+      "decal_id": "rbxassetid://0",
+      "rating": 2.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Normal",
+      "decal_id": "rbxassetid://0",
+      "rating": 2.25,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Intermediate",
+      "decal_id": "rbxassetid://0",
+      "rating": 2.5,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Extraordinary",
+      "decal_id": "rbxassetid://0",
+      "rating": 2.75,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Hard",
+      "decal_id": "rbxassetid://0",
+      "rating": 3.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Tricky",
+      "decal_id": "rbxassetid://0",
+      "rating": 3.25,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Onerous",
+      "decal_id": "rbxassetid://0",
+      "rating": 3.5,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Easeful",
+      "decal_id": "rbxassetid://0",
+      "rating": 3.75,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Difficult",
+      "decal_id": "rbxassetid://0",
+      "rating": 4.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Strenuous",
+      "decal_id": "rbxassetid://0",
+      "rating": 4.25,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Menacing",
+      "decal_id": "rbxassetid://0",
+      "rating": 4.5,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Harming",
+      "decal_id": "rbxassetid://0",
+      "rating": 4.75,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Challenging",
+      "decal_id": "rbxassetid://0",
+      "rating": 5.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Irritating",
+      "decal_id": "rbxassetid://0",
+      "rating": 5.25,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Maniacal",
+      "decal_id": "rbxassetid://0",
+      "rating": 5.5,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Hectic",
+      "decal_id": "rbxassetid://0",
+      "rating": 5.75,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Intense",
+      "decal_id": "rbxassetid://0",
+      "rating": 6.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "TooMedium",
+      "decal_id": "rbxassetid://0",
+      "rating": 6.25,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Severe",
+      "decal_id": "rbxassetid://0",
+      "rating": 6.5,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Hellish",
+      "decal_id": "rbxassetid://0",
+      "rating": 6.75,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Remorseless",
+      "decal_id": "rbxassetid://0",
+      "rating": 7.0,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "C0RrUpT",
+      "decal_id": "rbxassetid://0",
+      "rating": 7.25,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Psycho",
+      "decal_id": "rbxassetid://0",
+      "rating": 7.5,
+      "type": "Normal",
+      "overview": ""
+    },
+    {
+      "name": "Harsh",
+      "decal_id": "rbxassetid://0",
+      "rating": 7.75,
+      "type": "Sub-Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Relentless",
+      "decal_id": "rbxassetid://0",
+      "rating": 8.0,
+      "type": "1st Fabled/Class Finale",
+      "overview": ""
+    },
+    {
+      "name": "Angerable",
+      "decal_id": "rbxassetid://0",
+      "rating": 8.25,
+      "type": "Sub Difficulty",
+      "overview": ""
+    },
+    {
+      "name": "Gar Chain",
+      "decal_id": "rbxassetid://0",
+      "rating": "0.125",
+      "type": "Chain/Sub-Difficulties",
+      "overview": "",
+      "rating_end": "225.5"
+    }
+  ]
+}
